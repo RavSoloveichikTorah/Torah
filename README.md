@@ -1,4 +1,4 @@
-# Torah Shiurim From The Rav, Rav Yosef Dov Halevi Soloveichik T"L
+# Torah Shiurim From The Rav, Rav Yosef Dov Halevi Soloveichik ZT"L
 
 ## Purpose of this Repository
 This repo contains my summaries of various shiurim/lectires delivered by the Rav ZT"L over the course of approximately 3o years. Some of the Shiurim were delivered as part of the Rav's well attended yahrtzeit Shiurim as well as his weekly **Blatt Shiur** deliverd at Moriah, on the upper West Side of Manhattan. Also included are transcripts of Shiurim delivered at Maimonides and at Yeshiva University. The summaries were driven by my interest in the Rav's unique approach to interpreting Chumash. While many have focused on the Rav's erudition in Talmud, I was intrigued in the Hashkafa and messages conveyed  by the Rav in his various shiurim and lectures that spoke to the Jewish community regardless of label and group afiliation. 
