@@ -5,6 +5,6 @@ This repo contains the summaries i wrote of various shiurim/lectires delivered b
 
 While I was fortunate to personally attend some of the lectures, the vast majority were recorded and provided to me by, among others, my father in law, Rabbi Chaim Zev Bomzer ZT"L, a decades long Talmid of the Rav from the early 1950s, as well as taped lectures produced and made avalable for sale by Mr. Milton Nordlicht.
 
-The files are available in **.pdf** form. **All the articles are written by me and all errors included are my responsibility. All the material is copyright protected by Rabbi Joshua Rapps and permission is granted to print them for personal use. Publication of any part of these summaries in a formal book or electriic form without my perission is specifcally prohibited.**
+The files are available in **.pdf** form. All the articles are written by me and all errors included are my responsibility. **All articles are Copyright 2015 by  Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading. May not be incorporated in printed or electronic publications without explicit permission from the author**
 
 [Breishis 1](./Breishis_JP_2016.pdf)
