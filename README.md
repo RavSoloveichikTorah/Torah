@@ -7,5 +7,5 @@ While I was fortunate to personally attend some of the lectures, the vast majori
 
 The files are available in **.pdf** form. All the articles are written by me and all errors included are my responsibility. **All articles are Copyright 2015 by  Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading. May not be incorporated in printed or electronic publications without explicit permission from the author**
 
-* [Breishis 1](./Breishis_JP_2016.pdf)
-* [Noach 1] (./noach.JP_2014.pdf)
+* [Breishis 1](./Breishis-JP-2016.pdf)
+* [Noach 1] (./Noach-JP-2014.pdf)
