@@ -14,3 +14,4 @@ The files are available in **.pdf** form. All the articles are/were written by m
 * [Lech Lcha 1](./LechLcha-1-RCA.pdf)
 * [Vayeira 1](./Vayeira-1.pdf)
 * [Chayei Sara 1](./ChayeiSarah-1.pdf)
+* [Toldos 1](./Toldos-1.pdf)
