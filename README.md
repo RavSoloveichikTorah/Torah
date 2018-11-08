@@ -15,3 +15,4 @@ The files are available in **.pdf** form. All the articles are/were written by m
 * [Vayeira 1](./Vayeira-1.pdf)
 * [Chayei Sara 1](./ChayeiSarah-1.pdf)
 * [Toldos 1](./toldos-1.pdf)
+* [Toldos 1.md](./Toldos-1.md)
