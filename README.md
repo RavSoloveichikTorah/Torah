@@ -7,7 +7,7 @@ Some of the summaries are based on Chumash lectures presented by the Rav at the 
 
 While I was fortunate to personally attend some of these lectures, the vast majority were recorded and provided to me by, among others, my father in law, Rabbi Chaim Zev Bomzer ZT"L, a decades long Talmid of the Rav from the early 1950s, Dr. Israel Rivkin as well as taped lectures made avalable for sale by Mr. Milton Nordlicht.
 
-The files are available in **.pdf** form. All the articles are/were written by me and all errors included are my responsibility. **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**
+The files are available in **.pdf** and **.md** (markdown) form. All the articles are/were written by me and all errors included are my responsibility. **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**
 
 * [Breishis 1](./Breishis-2016.pdf)
 * [Noach 1](./Noach-2014.pdf)
