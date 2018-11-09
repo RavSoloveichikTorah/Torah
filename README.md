@@ -14,7 +14,7 @@ The files are available in **.pdf** and **.md** (markdown) form. All the article
 * [LechLcha 1](./LechLcha-1.pdf)
 * [LechLcha 1.md](./LechLcha-1.md)
 * [Vayeira 1](./Vayeira-1.pdf)
-* [Vayeira-1.md](./Vayeira-1.md)
+* [Vayeira 1.md](./Vayeira-1.md)
 * [Chayei Sara 1](./ChayeiSarah-1.pdf)
 * [Chayei Sara 1.md](./ChayeiSarah-1.md)
 * [Toldos 1](./toldos-1.pdf)
