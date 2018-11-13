@@ -19,3 +19,5 @@ The files are available in **.pdf** and **.md** (markdown) form. All the article
 * [Chayei Sara 1.md](./ChayeiSarah-1.md)
 * [Toldos 1](./toldos-1.pdf)
 * [Toldos 1.md](./Toldos-1.md)
+* [Vayaytzay 1](./Vayaytzay-1.pdf)
+* [Vayaytzay 1](./Vayaytzay-1.md)
