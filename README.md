@@ -7,10 +7,13 @@ Some of the summaries are based on Chumash lectures presented by the Rav at the 
 
 While I was fortunate to personally attend some of these lectures, the vast majority were recorded and provided to me by, among others, my father in law, Rabbi Chaim Zev Bomzer ZT"L, a decades long Talmid of the Rav from the early 1950s, Dr. Israel Rivkin as well as taped lectures made avalable for sale by Mr. Milton Nordlicht.
 
+The files under the **JrTorah** directory (that have **JrTorah** in their hyper-links) are my own thoughts on the Parsha and other topics. Often they are influenced by ideas I heard from the Rav ZT"L.
+
 The files are available in **.pdf** and **.md** (markdown) form. All the articles are/were written by me and all errors included are my responsibility. **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**
 
 * [Breishis 1](./Breishis-2016.pdf)
 * [Noach 1](./Noach-2014.pdf)
+* [JrTorah/Noach-1](./JrTorah/Noach-2018.pdf)
 * [LechLcha 1](./LechLcha-1.pdf)
 * [LechLcha 1.md](./LechLcha-1.md)
 * [Vayeira 1](./Vayeira-1.pdf)
