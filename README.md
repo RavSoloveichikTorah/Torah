@@ -21,3 +21,5 @@ The files are available in **.pdf** and **.md** (markdown) form. All the article
 * [Toldos 1.md](./Toldos-1.md)
 * [Vayaytzay 1](./Vayaytzay-1.pdf)
 * [Vayaytzay 1.md](./Vayaytzay-1.md)
+* [JrTorah/Vayatzay-1.md](./JrTorah/Vayaytzay-1-JR.md)
+* [JrTorah/Vayatzay-1.pdf](./JrTorah/Vayaytzay-1-JR.pdf)
