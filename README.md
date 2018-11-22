@@ -28,3 +28,5 @@ The files are available in **.pdf** and **.md** (markdown) form. All the article
 * [JrTorah/Vayatzay-1.pdf](./JrTorah/Vayaytzay-1-JR.pdf)
 * [Vayishlach 1](./Vayishlach-1.pdf)
 * [Vayishlach 1.md](./Vayishlach-1.md)
+* [JrTorah/Vayishlach-1](./JrTorah/JrVayishlach.pdf)
+* [JrTorah/Vayishlach-1.md](./JrTorah/JrVayishlach.md)
