@@ -38,3 +38,5 @@ The files are available in **.pdf** and **.md** (markdown) form.
 * [Vayayshev 1.md](./Vayayshev-1.md)
 * [JrTorah/Vayayshev-1](./JrTorah/JrVayayshev-1.pdf)
 * [JrTorah/Vayayshev-1.md](./JrTorah/JrVayayshev-1.md)
+* [Chanukah 2018](./Chanukah 2018.pdf)
+* [Chanukah 2018.md](./Chanukah 2018.md)
