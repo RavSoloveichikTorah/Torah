@@ -42,5 +42,7 @@ The files are available in **.pdf** and **.md** (markdown) form.
 * [Chanukah 2018.md](./Chanukah-2018.md)
 * [JrTorah/Miketz-1](./JrTorah/JrMiketz-2018-1.pdf)
 * [JrTorah/Miketz-1.md](./JrTorah/JrMiketz-2018-1.md)
+* [Vayigash-2018-1.pdf](./Vayigash-2018-1.pdf)
+* [Vayigash-2018-1.md](./Vayigash-2018-1.md)
 * [JrTorah/JrVayigash-1](./JrTorah/JrVayigash-2018-1.pdf)
 * [JrTorah/JrVayigash-1.md](./JrTorah/JrVayigash-2018-1.md)
