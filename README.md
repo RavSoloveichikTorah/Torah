@@ -11,7 +11,7 @@ The preparation and writing of these summaries required many hours of listening 
 
 The files under the **JrTorah** directory (with **JrTorah** in their hyper-links) are my own thoughts on the Parsha and other topics. Often they are influenced by ideas I heard from the Rav ZT"L.
 
-The files are available in **.pdf** and **.md** (markdown) form. 
+Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find some additional interesting nuance. Releasing these summaries through **github** allows me to update them over time with minimal effort and without the need to update purchased printed copies. Interested people can be notified of updates by subscribing to **github** and this repository or by checking timestamps of the files in the repository for updated files. The files are available in **.pdf** and **.md** (markdown) form. 
 
 **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**
 
