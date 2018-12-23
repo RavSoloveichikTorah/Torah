@@ -48,3 +48,5 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [JrTorah/JrVayigash-1.md](./JrTorah/JrVayigash-2018-1.md)
 * [Vayechi-2018-1](./vayechi_2018-1.pdf)
 * [Vayechi-2018-1.md](./Vayechi-2018-1.md)
+* [Vayechi-2018-2](./Vayechi-2018-2.pdf)
+* [Vayechi-2018-2.md](./Vayechi-2018-2.md)
