@@ -1,6 +1,6 @@
-ואני נתתי לך שכם אחד על אחיך אשר לקחתי מיד האמורי בחרבי ובקשתי (בראשית מח:כג)
+ (ואני נתתי לך שכם אחד על אחיך אשר לקחתי מיד האמורי בחרבי ובקשתי (בראשית מח:כג
 
-ואנא יהבית לך חולק חד יתיר על אחיך די נסיבית מידא דאמוראה בצלותי ובבעותי (תרגום אונקלוס)
+(ואנא יהבית לך חולק חד יתיר על אחיך די נסיבית מידא דאמוראה בצלותי ובבעותי (תרגום אונקלוס 
 
 Jacob grants Joseph an extra gift above his brothers (according to Rashi) the city of שכם as a burial place for himself. Jacob maintains that he captured the city from the local Canaanite population with his sword and bow. Onkelos interprets my sword and bow as with my prayers and requests, בצלותי ובבעותי. What is the connection between sword and bow and forms of prayer?
 
