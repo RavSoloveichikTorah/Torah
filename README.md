@@ -50,3 +50,5 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [Vayechi-2018-1.md](./Vayechi-2018-1.md)
 * [Vayechi-2018-2](./Vayechi-2018-2.pdf)
 * [Vayechi-2018-2.md](./Vayechi-2018-2.md)
+* [Shemos-2018-1](./Shemos-2018-1.pdf)
+* [Shemos-2018-1.md](./Shemos-2018-1.md)
