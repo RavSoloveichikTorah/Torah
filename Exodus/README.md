@@ -3,3 +3,5 @@
 
 * [Shemos-2018-1](../RavTorah/Exodus/Shemos-2018-1.pdf)
 * [Shemos-2018-1.md](../RavTorah/Exodus/Shemos-2018-1.md)
+* [Shemos-2018-2](../RavTorah/Exodus/Shemos-2018-1.pdf)
+* [Shemos-2018-2.md](../RavTorah/Exodus/Shemos-2018-1.md)
