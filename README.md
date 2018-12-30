@@ -16,4 +16,4 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**.
 
 * [Breishis](./Genesis/README.md)
-* [Shemos](./Exodus/README.md)
+* [Shmos](./Exodus/README.md)
