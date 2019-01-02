@@ -14,7 +14,7 @@ Moses returns to Egypt and he and Aaron present the message of Redemption to the
 
 
 In their second dialogue, Gd mentions the patriarchs and entrusts Moses with the mission to convey the ארבע לשונות הגאולה, the 4 terms of redemption and the entire Judaic Philosophy that these words represent. Gd contrasts the names through which He appeared to the patriarchs with the name that He appeared to Moses. The typical example of שליחות, appointing an agent, is where someone seeks out the emissary to perform some act on his behalf. While Abraham recognized Gd at an early age, Gd did not communicate with him for many years till He instructed Abraham to travel the land of Canaan. In this case, Abraham was the one searching for Gd. Gd, כביכול, did not search for Abraham. Abraham's relationship (and that of Isaac and Jacob as well) with Gd was one of friendship:
-(בראשית 48:15)  האלקים אשר התהלכו אבותי לפניו אברהם ויצחק האלקים הרועה אותי מעודי) (see Ramban who explain רועה as meaning friendship). The patriarchs were not messengers of Gd. Moses was the first to enjoy a dual relationship with Gd: that of friend and that of messenger, as the Torah says  (במדבר 20:16) וישלח מלאך ויוציאם ממצרים, and Gd sent an emissary and delivered them from Egypt, and the Ramban interprets מלאך as Moses.
+(בראשית 48:15)  האלקים אשר התהלכו אבותי לפניו אברהם ויצחק האלקים הרועה אותי מעודי (see Ramban who explain רועה as meaning friendship). The patriarchs were not messengers of Gd. Moses was the first to enjoy a dual relationship with Gd: that of friend and that of messenger, as the Torah says  (במדבר 20:16) וישלח מלאך ויוציאם ממצרים, and Gd sent an emissary and delivered them from Egypt, and the Ramban interprets מלאך as Moses.
 
 
 
