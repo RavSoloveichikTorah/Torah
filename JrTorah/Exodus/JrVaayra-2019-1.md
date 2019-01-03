@@ -1,8 +1,8 @@
-ושמעו לקלך ובאת אתה וזקני ישראל אל־מלך מצרים ואמרתם אליו יהוה אלהי העבריים נקרה עלינו ועתה נלכה־נא דרך שלשת ימים במדבר ונזבחה ליהוה אלהינו (שמות 3:18)
+ושמעו לקלך ובאת אתה וזקני ישראל אל־מלך מצרים ואמרתם אליו יהוה אלהי העבריים נקרה עלינו ועתה נלכה־נא דרך שלשת ימים במדבר ונזבחה ליהוה אלהינו (שמות 3:18
 
-ואחר באו משה ואהרן ויאמרו אל־פרעה כה־אמר יהוה אלהי ישראל שלח את־עמי ויחגו לי במדבר בויאמר פרעה מי יהוה אשר אשמע בקלו לשלח את־ישראל לא ידעתי את־יהוה וגם את־ישראל לא אשלח גויאמרו אלהי העברים נקרא עלינו נלכה נא דרך שלשת ימים במדבר ונזבחה ליהוה אלהינו פן־יפגענו בדבר או בחרב דויאמר אלהם מלך מצרים למה משה ואהרן תפריעו את־העם ממעשיו לכו לסבלתיכם (שמות 5:1-4)
+ואחר באו משה ואהרן ויאמרו אל־פרעה כה־אמר יהוה אלהי ישראל שלח את־עמי ויחגו לי במדבר בויאמר פרעה מי יהוה אשר אשמע בקלו לשלח את־ישראל לא ידעתי את־יהוה וגם את־ישראל לא אשלח גויאמרו אלהי העברים נקרא עלינו נלכה נא דרך שלשת ימים במדבר ונזבחה ליהוה אלהינו פן־יפגענו בדבר או בחרב דויאמר אלהם מלך מצרים למה משה ואהרן תפריעו את־העם ממעשיו לכו לסבלתיכם (שמות 5:1-4
 
-וידבר אלהים אל־משה ויאמר אליו אני יהוה גוארא אל־אברהם אל־יצחק ואל־יעקב באל שדי ושמי יהוה לא נודעתי להם (שמות 6:1-2)
+וידבר אלהים אל־משה ויאמר אליו אני יהוה גוארא אל־אברהם אל־יצחק ואל־יעקב באל שדי ושמי יהוה לא נודעתי להם (שמות 6:1-2
 
 Gd commands Moses to confront Pharaoh and demand that he release the people so they may celebrate before Him in the desert. Gd commands him to mention the Ineffable Name of Gd, that he has just been introduced to, when he confronts Pharaoh. When Moses comes before Pharaoh he initiates his demand by invoking the Ineffable Name of Gd. Pharaoh challenges him as to the identity of this Gd and says I have never heard of this Gd and I have no intention to listen to Him. Moses and Aaron suddenly switch to אלקי העברים. It is interesting to note that Pharaoh does not challenge Moses regarding this name of Gd, instead he increases the workload on the people.  Why did Pharaoh react differently to the 2 names of Gd used by Moses and Aaron? If Gd commanded Moses to use the Ineffable Name of Gd before Pharaoh, why did he change to אלקים? Why did Gd use the Ineffable Name versus ש-ד-י?
 
