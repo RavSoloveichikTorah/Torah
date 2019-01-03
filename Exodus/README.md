@@ -6,4 +6,7 @@
 * [Shmos-2018-2](../RavTorah/Exodus/Shemos-2018-2.pdf)
 * [Shmos-2018-2.md](../RavTorah/Exodus/Shemos-2018-2.md)
 * [Vaayra-2019-1](../RavTorah/Exodus/Vaayra-2019-1.pdf)
-* [Vaayra-2019-1.md](../RavTorah/Exodus/Vaayra-2019-1.md)
+* [Vaayra-2019-1.md](../RavTorah/Exodus/Vaayra-2019-1.md
+* [JrVaayra-2019-1](../JrTorah/Exodus/JrVaayra-2019-1.pdf)
+* [JrVaayra-2019-1.md](../JrTorah/Exodus/JrVaayra-2019-1.md)
+
