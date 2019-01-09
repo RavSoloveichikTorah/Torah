@@ -9,7 +9,7 @@ While I was fortunate to personally attend some of these lectures, the vast majo
 
 The preparation and writing of these summaries required many hours of listening to recorded Shiurim and lectures, filtering out the static and noise in many of those recordings, and writing and reviewing. Every word in these summaries is written by me and no other written sources were consulted or used. All errors in understanding or transcription are my responsibility.
 
-The files under the **JrTorah** directory (with **JrTorah** in their hyper-links) are my own thoughts on the Parsha and other topics. Often they are influenced by ideas I heard from the Rav ZT"L.
+The files under the **JrTorah** directory (with **Jr** in their hyper-links) are my own thoughts on the Parsha and other topics. Often they are influenced by ideas I heard from the Rav ZT"L.
 
 Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find some additional interesting nuance. Releasing these summaries through **github** allows me to update them over time with minimal effort and without the need to update purchased printed copies. Interested people can be notified of updates by subscribing to **github** and this repository or by checking timestamps of the files in the repository for updated files. One can easily check for updates by examining the timestamp and comment in the line item for each Chumash by scrolling to the top of this README file. The files are available in **.pdf** and **.md** (markdown) form. 
 
