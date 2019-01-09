@@ -11,4 +11,6 @@
 * [JrVaayra-2019-1.md](../JrTorah/Exodus/JrVaayra-2019-1.md)
 * [Bo-2019-1](../RavTorah/Exodus/Bo-2019-1.pdf)
 * [Bo-2019-1.md](../RavTorah/Exodus/Bo-2019-1.md)
+* [JrBo-2019-1](../JrTorah/Exodus/JrBo-2019-1.pdf)
+* [JrBo-2019-1.md](../JrTorah/Exodus/JrBo-2019-1.md)
 
