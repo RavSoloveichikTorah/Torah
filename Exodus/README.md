@@ -13,4 +13,5 @@
 * [Bo-2019-1.md](../RavTorah/Exodus/Bo-2019-1.md)
 * [JrBo-2019-1](../JrTorah/Exodus/JrBo-2019-1.pdf)
 * [JrBo-2019-1.md](../JrTorah/Exodus/JrBo-2019-1.md)
-
+* [Bshalach-2019-1](../RavTorah/Exodus/Bshalach-2019-1.pdf)
+* [Bshalach-2019-1.md](../RavTorah/Exodus/Bshalach-2019-1.md)
