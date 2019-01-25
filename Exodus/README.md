@@ -17,3 +17,5 @@
 * [Bshalach-2019-1.md](../RavTorah/Exodus/Bshalach-2019-1.md)
 * [Yisro-2019-1](../RavTorah/Exodus/Yisro-2019-1.pdf)
 * [Yisro-2019-1.md](../RavTorah/Exodus/Yisro-2019-1.md)
+* [Yisro-2019-2](../RavTorah/Exodus/Yisro-2019-2.pdf)
+* [Yisro-2019-2.md](../RavTorah/Exodus/Yisro-2019-2.md)
