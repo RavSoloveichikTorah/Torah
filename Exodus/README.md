@@ -19,5 +19,7 @@
 * [Yisro-2019-1.md](../RavTorah/Exodus/Yisro-2019-1.md)
 * [Yisro-2019-2](../RavTorah/Exodus/Yisro-2019-2.pdf)
 * [Yisro-2019-2.md](../RavTorah/Exodus/Yisro-2019-2.md)
+* [JrYisro-2019-1](../RavTorah/Exodus/JrYisro-2019-1.pdf)
+* [JrYisro-2019-1.md](../RavTorah/Exodus/JrYisro-2019-1.md)
 * [JrMishpatim-2019-1](../JrTorah/Exodus/JrMishpatim-2019-1.pdf)
 * [JrMishpatim-2019-1.md](../JrTorah/Exodus/JrMishpatim-2019-1.md)
