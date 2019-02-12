@@ -25,3 +25,5 @@
 * [JrMishpatim-2019-1.md](../JrTorah/Exodus/JrMishpatim-2019-1.md)
 * [Teruma-2019-1](../RavTorah/Exodus/Teruma-2019-1.pdf)
 * [Teruma-2019-1.md](../RavTorah/Exodus/Teruma-2019-1.md)
+* [Tetzaveh-2019-1](../RavTorah/Exodus/Tetzaveh-2019-1.pdf)
+* [Tetzaveh-2019-1.md](../RavTorah/Exodus/Tetzaveh-2019-1.md)
