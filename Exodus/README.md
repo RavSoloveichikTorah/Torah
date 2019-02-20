@@ -27,3 +27,5 @@
 * [Teruma-2019-1.md](../RavTorah/Exodus/Teruma-2019-1.md)
 * [Tetzaveh-2019-1](../RavTorah/Exodus/Tetzaveh-2019-1.pdf)
 * [Tetzaveh-2019-1.md](../RavTorah/Exodus/Tetzaveh-2019-1.md)
+* [KiTisa-2019-1](../RavTorah/Exodus/KiTisa-2019-1.pdf)
+* [KiTisa-2019-1.md](../RavTorah/Exodus/KiTisa-2019-1.md)
