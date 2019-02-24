@@ -29,3 +29,5 @@
 * [Tetzaveh-2019-1.md](../RavTorah/Exodus/Tetzaveh-2019-1.md)
 * [KiTisa-2019-1](../RavTorah/Exodus/KiTisa-2019-1.pdf)
 * [KiTisa-2019-1.md](../RavTorah/Exodus/KiTisa-2019-1.md)
+* [JrKiTsa-2019-1](../JrTorah/Exodus/JrKiTisa-2019-1.pdf)
+* [JrKiTisa-2019-1.md](../JrTorah/Exodus/JrKiTisa-2019-1.md)
