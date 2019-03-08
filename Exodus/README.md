@@ -33,3 +33,5 @@
 * [JrKiTisa-2019-1.md](../JrTorah/Exodus/JrKiTisa-2019-1.md)
 * [Vayakhel-2019-1](../RavTorah/Exodus/Vayakhel-2019-1.pdf)
 * [Vayakhel-2019-1.md](../RavTorah/Exodus/Vayakhel-2019-1.md)
+* [JrPikudei-2019-1](../JrTorah/Exodus/JrPikudei-2019-1.pdf)
+* [JrPikudei-2019-1.md](../JrTorah/Exodus/JrPikudei-2019-1.md)
