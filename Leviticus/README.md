@@ -4,3 +4,5 @@
 * [Parah-2019-1.md](../RavTorah/Leviticus/Parah-2019-1.md)
 * [Shemini-2019-1.pdf](../RavTorah/Leviticus/Shemini-2019-1.pdf)
 * [Shemini-2019-1.md](../RavTorah/Leviticus/Shemini-2019-1.md)
+* [JrTazria-2019-1.pdf](../JrTorah/Leviticus/JrTazria-2019-1.pdf)
+* [JrTazria-2019-1.md](../JrTorah/Leviticus/JrTazria-2019-1.md)
