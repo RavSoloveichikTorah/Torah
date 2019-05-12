@@ -12,3 +12,5 @@
 * [Metzorah-2019-1.md](../RavTorah/Leviticus/Metzorah-2019-1.md)
 * [JrKdoshim-2019-1.pdf](../JrTorah/Leviticus/JrKdoshim-2019-1.pdf)
 * [JrKdoshim-2019-1.md](../JrTorah/Leviticus/JrKdoshim-2019-1.md)
+* [Kdoshim-2019-1.pdf](../RavTorah/Leviticus/Kdoshim-2019-1.pdf)
+* [Kdoshim-2019-1.md](../RavTorah/Leviticus/Kdoshim-2019-1.md)
