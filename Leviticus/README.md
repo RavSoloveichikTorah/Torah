@@ -16,3 +16,5 @@
 * [Kdoshim-2019-1.md](../RavTorah/Leviticus/Kdoshim-2019-1.md)
 * [Emor-2019-1.pdf](../RavTorah/Leviticus/Emor-2019-1.pdf)
 * [Emor-2019-1.md](../RavTorah/Leviticus/Emor-2019-1.md)
+* [Bhar-2019-1.pdf](../RavTorah/Leviticus/Bhar-2019-1.pdf)
+* [Bhar-2019-1.md](../RavTorah/Leviticus/Bhar-2019-1.md)
