@@ -18,5 +18,5 @@
 * [Emor-2019-1.md](../RavTorah/Leviticus/Emor-2019-1.md)
 * [Bhar-2019-1.pdf](../RavTorah/Leviticus/Bhar-2019-1.pdf)
 * [Bhar-2019-1.md](../RavTorah/Leviticus/Bhar-2019-1.md)
-* [JrVayikraParshiotSequence-2019-1.pdf](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.md)
+* [JrVayikraParshiotSequence-2019-1.pdf](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.pdf)
 * [JrVayikraParshiotSequence-2019-1.md](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.md)
