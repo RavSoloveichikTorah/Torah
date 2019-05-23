@@ -22,4 +22,3 @@
 * [JrVayikraParshiotSequence-2019-1.md](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.md)
 * [JrCovenantalBlueprint-2019-1.pdf](../JrTorah/Leviticus/JrCovenantalBlueprint-2019-1.pdf)
 * [JrCovenantalBlueprint-2019-1.md](../JrTorah/Leviticus/JrCovenantalBlueprint-2019-1.md)
-
