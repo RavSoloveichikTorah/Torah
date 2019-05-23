@@ -20,3 +20,6 @@
 * [Bhar-2019-1.md](../RavTorah/Leviticus/Bhar-2019-1.md)
 * [JrVayikraParshiotSequence-2019-1.pdf](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.pdf)
 * [JrVayikraParshiotSequence-2019-1.md](../JrTorah/Leviticus/JrVayikraParshiotSequence-2019-1.md)
+* [JrCovenantalBlueprint-2019-1.pdf](../JrTorah/Leviticus/JrCovenantalBlueprint-2019-1.pdf)
+* [JrCovenantalBlueprint-2019-1.md](../JrTorah/Leviticus/JrCovenantalBlueprint-2019-1.md)
+
