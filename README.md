@@ -18,4 +18,5 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [Breishis](./Genesis/README.md)
 * [Shmos](./Exodus/README.md)
 * [Vayikra](./Leviticus/README.md)
+* [Bamidbar](./Bamidbar/README.md)
 * [Moadim](./RavTorah/Moadim/README.md)
