@@ -2,5 +2,7 @@
 * [JrBamidbar-2019-1.pdf](../JrTorah/Numbers/JrBamidbar-2019-1.pdf)
 * [Naso-2019-1.md](../RavTorah/Numbers/Naso-2019-1.md)
 * [Naso-2019-1.pdf](../RavTorah/Numbers/Naso-2019-1.pdf)
+* [Naso-2019-2.md](../RavTorah/Numbers/Naso-2019-2.md)
+* [Naso-2019-2.pdf](../RavTorah/Numbers/Naso-2019-2.pdf)
 * [Bhaloscha-2019-1.md](../RavTorah/Numbers/Bhaloscha-2019-1.md)
 * [Bhaloscha-2019-1.pdf](../RavTorah/Numbers/Bhaloscha-2019-1.pdf)
