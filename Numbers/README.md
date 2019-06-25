@@ -10,3 +10,5 @@
 * [JrNaso-2019-2.pdf](../JrTorah/Numbers/JrNaso-2019-2.pdf)
 * [Bhaloscha-2019-1.md](../RavTorah/Numbers/Bhaloscha-2019-1.md)
 * [Bhaloscha-2019-1.pdf](../RavTorah/Numbers/Bhaloscha-2019-1.pdf)
+* [JrBhaloscha-2019-1.md](../JrTorah/Numbers/JrBhaloscha-2019-1.md)
+* [JrBhaloscha-2019-1.pdf](../JrTorah/Numbers/JrBhaloscha-2019-1.pdf)
