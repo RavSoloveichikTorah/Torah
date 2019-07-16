@@ -14,3 +14,5 @@
 * [JrBhaloscha-2019-1.pdf](../JrTorah/Numbers/JrBhaloscha-2019-1.pdf)
 * [Shlach-2019-1.md](../RavTorah/Numbers/Shlach-2019-1.md)
 * [Shlach-2019-1.pdf](../RavTorah/Numbers/Shlach-2019-1.pdf)
+* [Korach-2019-1.md](../RavTorah/Numbers/Korach-2019-1.md)
+* [Korach-2019-1.pdf](../RavTorah/Numbers/Korach-2019-1.pdf)
