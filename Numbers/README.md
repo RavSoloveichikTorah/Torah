@@ -20,3 +20,5 @@
 * [JrChukas-2019-1.pdf](../JrTorah/Numbers/JrChukas-2019-1.pdf)
 * [Pinchas-2019-1.md](../RavTorah/Numbers/Pinchas-2019-1.md)
 * [Pinchas-2019-1.pdf](../RavTorah/Numbers/Pinchas-2019-1.pdf)
+* [JrPinchas-2019-1.md](../JrTorah/Numbers/JrPinchas-2019-1.md)
+* [JrPinchas-2019-1.pdf](../JrTorah/Numbers/JrPinchas-2019-1.pdf)
