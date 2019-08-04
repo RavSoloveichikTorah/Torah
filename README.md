@@ -19,5 +19,5 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [Shmos](./Exodus/README.md)
 * [Vayikra](./Leviticus/README.md)
 * [Bamidbar](./Numbers/README.md)
-* [Devarim](../Deuteronomy/README.md)
+* [Devarim](./Deuteronomy/README.md)
 * [Moadim](./RavTorah/Moadim/README.md)
