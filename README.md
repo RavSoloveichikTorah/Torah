@@ -15,9 +15,9 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 
 **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**.
 
-* [Breishis](./Genesis/README.md)
-* [Shmos](./Exodus/README.md)
-* [Vayikra](./Leviticus/README.md)
-* [Bamidbar](./Numbers/README.md)
-* [Dvarim](./Deuteronomy/README.md)
-* [Moadim](./RavTorah/Moadim/README.md)
+* [בראשית](./Genesis/README.md)
+* [שמות](./Exodus/README.md)
+* [ויקרא](./Leviticus/README.md)
+* [במדבר](./Numbers/README.md)
+* [דברים](./Deuteronomy/README.md)
+* [מועדים](./RavTorah/Moadim/README.md)
