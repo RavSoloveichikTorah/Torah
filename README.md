@@ -21,3 +21,4 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [במדבר](./Numbers/README.md)
 * [דברים](./Deuteronomy/README.md)
 * [מועדים](./RavTorah/Moadim/README.md)
+* [מחשבה](./RavTorah/Machshava)
