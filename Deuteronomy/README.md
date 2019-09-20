@@ -4,5 +4,7 @@
 * [Eikev-2019-1.pdf](../RavTorah/Deuteronomy/Eikev-2019-1.pdf)
 * [JrKiTeitzay-2019-1-2019-1.md](../JrTorah/Deuteronomy/JrKiTeitzay-2019-1.md)
 * [JrKiTeitzay-2019-1-2019-1.pdf](../JrTorah/Deuteronomy/JrKiTeitzay-2019-1.pdf)
+* [KiTavo-2019-1.md](./Kitavo-2019-1.md)
+* [KiTavo-2019-1.pdf](./KiTavo-2019-1.pdf)
 * [JrKiTavo-2019-1.md](./JrKitavo-2019-1.md)
 * [JrKiTavo-2019-1.pdf](./JrKiTavo-2019-1.pdf)
