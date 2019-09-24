@@ -25,5 +25,6 @@ Unfortunately many American Jews are incapable of distinguishing between the bea
 The Torah prohibits us from examining the religious customs of the nations that were expelled from Israel. Rashi says that this prohibition is related to idolatry. Ramban disagreed. A Jew may find some of the non-Jewish worship practices appealing, such as mixed seating, the priest facing the audience, an organ, a mixed choir. לא תעשון כן is a special prohibition against incorporating any of their religious practices in the Temple and in our synagogues. That is כלאים of the most horrible sort that destroys everything. No mixing of קדושה with the religious practices of the non-Jewish world is permitted. 
 
 If we allow a leper to enter the Temple we violate the commandment to guard the Temple, to prevent the mixing of the sanctified with the mundane, the pure with the defiled. The non-Jewish world combines the pure and the defiled. The greater the level of sanctity, the more susceptible it is to corruption and spoilage. The synagogue and religious life cannot tolerate כלאים.
+
 This summary is copyright 2019 by Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
