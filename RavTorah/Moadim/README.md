@@ -2,3 +2,5 @@
 * [Pesach-2019-1.md](./Pesach-2019-1.md)
 * [JrShavuot-2019-1](./JrShavuot-2019-1.pdf)
 * [JrShavuot-2019-1.md](./JrShavuot-2019-1.md)
+* [JrMalchios-2019-1](./JrMalchios-2019-1.pdf)
+* [JrMalchios-2019-1.md](./JrMalchios-2019-1.md)
