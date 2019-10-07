@@ -10,3 +10,5 @@
 * [KiTavo-2019-1.pdf](./KiTavo-2019-1.pdf)
 * [JrKiTavo-2019-1.md](./JrKitavo-2019-1.md)
 * [JrKiTavo-2019-1.pdf](./JrKiTavo-2019-1.pdf)
+* [JrNitzavim-2019-1.md](./JrNitzavim-2019-1.md)
+* [JrNitzavim-2019-1.pdf](./JrNitzavim-2019-1.pdf)
