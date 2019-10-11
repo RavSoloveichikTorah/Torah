@@ -4,3 +4,5 @@
 * [JrShavuot-2019-1.md](./JrShavuot-2019-1.md)
 * [JrMalchios-2019-1](./JrMalchios-2019-1.pdf)
 * [JrMalchios-2019-1.md](./JrMalchios-2019-1.md)
+* [JrYomKippur-2019-1](./JrYomKippur-2019-1.pdf)
+* [JrYomKippur-2019-1.md](./JrYomKippur-2019-1.md)
