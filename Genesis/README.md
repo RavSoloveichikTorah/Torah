@@ -2,6 +2,8 @@
 **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**.
 
 * [Breishis 1](../RavTorah/Genesis/Breishis-2016.pdf)
+* [Breishis 2](../RavTorah/Genesis/Breishis-2019-1.pdf)
+* [Breishis 2](../RavTorah/Genesis/Breishis-2019-1.md)
 * [Noach 1](../RavTorah/Genesis/Noach-2014.pdf)
 * [JrTorah/Noach-1](../JrTorah/Genesis/Noach-2018.pdf)
 * [LechLcha 1](../RavTorah/Genesis/LechLcha-1.pdf)
