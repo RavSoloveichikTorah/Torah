@@ -28,5 +28,7 @@
 * [JrPinchas-2019-2.pdf](../JrTorah/Numbers/JrPinchas-2019-2.pdf)
 * [JrPinchas-2019-3.md](../JrTorah/Numbers/JrBamidbar-2019-1.md)
 * [JrPinchas-2019-3.pdf](../JrTorah/Numbers/JrBamidbar-2019-1.pdf)
+* [JrPinchas-2019-4.md](../JrTorah/Numbers/JrPinchas-2019-4.md)
+* [JrPinchas-2019-4.pdf](../JrTorah/Numbers/JrPinchas-2019-4.pdf)
 * [JrMatos-2019-1.md](../JrTorah/Numbers/JrMatos-2019-1.md)
 * [JrMatos-2019-1.pdf](../JrTorah/Numbers/JrMatos-2019-1.pdf)
