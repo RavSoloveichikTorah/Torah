@@ -10,6 +10,8 @@
 * [JrTorah/Noach-1](../JrTorah/Genesis/Noach-2018.pdf)
 * [LechLcha 1](../RavTorah/Genesis/LechLcha-1.pdf)
 * [LechLcha 1.md](../RavTorah/Genesis/LechLcha-1.md)
+* [JrLecLcha-2019-1.md](../JrTorah/Genesis/JrLecLcha-2019-1.md)
+* [JrLecLcha-2019-1.pdf](../JrTorah/Genesis/JrLecLcha-2019-1.pdf)
 * [Vayeira 1](../RavTorah/Genesis/Vayeira-1.pdf)
 * [Vayeira 1.md](../RavTorah/Genesis/Vayeira-1.md)
 * [Chayei Sara 1](../RavTorah/Genesis/ChayeiSarah-1.pdf)
