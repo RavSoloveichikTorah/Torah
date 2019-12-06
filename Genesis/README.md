@@ -18,6 +18,8 @@
 * [Chayei Sara 1.md](../RavTorah/Genesis/ChayeiSarah-1.md)
 * [Toldos 1](../RavTorah/Genesis/toldos-1.pdf)
 * [Toldos 1.md](../RavTorah/Genesis/Toldos-1.md)
+* [Toldos-2019-1](../RavTorah/Genesis/toldos-2019-1.pdf)
+* [Toldos-2019-1.md](../RavTorah/Genesis/Toldos-2019-1.md)
 * [Vayaytzay 1](../RavTorah/Genesis/Vayaytzay-1.pdf)
 * [Vayaytzay 1.md](../RavTorah/Genesis/Vayaytzay-1.md)
 * [JrTorah/Vayatzay-1.md](../JrTorah/Genesis/Vayaytzay-1-JR.md)
