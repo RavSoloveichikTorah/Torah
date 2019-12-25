@@ -6,3 +6,5 @@
 * [JrMalchios-2019-1.md](./JrMalchios-2019-1.md)
 * [JrYomKippur-2019-1](./JrYomKippur-2019-1.pdf)
 * [JrYomKippur-2019-1.md](./JrYomKippur-2019-1.md)
+* [Chanukah-2019-1](./Chanukah-2019-1.pdf)
+* [Chanukah-2019-1.md](./Chanukah-2019-1.md)
