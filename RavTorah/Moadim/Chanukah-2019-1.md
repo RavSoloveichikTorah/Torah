@@ -22,5 +22,11 @@ However if we view Chanukah from the perspective of the day on which the dedicat
 
 As Rambam says, the reason these days are called Chanukah is because they were the days of שמחה והלל associated with the dedication of the altar. For this reason, fasting and eulogizing are forbidden. These days also commemorate the miracle of the oil that burned for 8 days. The term Chanukah has nothing to do with the candles. Rather it is associated with the חנוכת המזבח.
 
+Each instance of חנוכת המזבח required a specifically ordained set of sacrifices. For the Tabernacle in the desert, the tribe elders were commanded to offer a sacrifice daily. When King Solomon consecrated the first Temple in Jerusalem, they did not follow the formula used by Moses in the desert. Rather, there was a different, unique program of sacrifices for that event. The same was true at the consecration of the second Temple in the time of Ezra. These consecrations had in common the presence of a prophet who received from Gd the order and number of sacrifices to be brought. However, with the advent of Chanukah, there was no prophet nor prophecy. They did not have a specific order as to how to consecrate the newly reconstructed altar. 
+
+In the absence of explicit instructions regarding the consecration, the best they could do was fall back on the program specified in the Torah for the dedication of the Tabernacle in the desert. That is why our Torah reading throughout Chanukah comes from the section of the dedication as performed by the, נשיאים, tribe elders. 
+
+Chazal recognized that the Hasmonean dedication process was deficient because there was no prophet to instruct them. However they did not despair. They suspended the dedication process until such time that a prophet would come along. We note this in the מעוז צור when we say אז אגמור בשיר מזמור חנוכת המזבח. We will complete the suspended dedication of the altar simultaneously with the dedication of the altar for the third Temple. May it be speedily in our days.
+
 Copyright 2019 by Rabbi Josh Rapps. Permission to reprint and distribute, with this notice, is hereby granted. Reproduction for distribution via electronic or print media is prohibited without the author’s permission.
 
