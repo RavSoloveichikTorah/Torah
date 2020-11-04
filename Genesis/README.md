@@ -14,6 +14,7 @@
 * [JrLechLcha-2019-1.pdf](../JrTorah/Genesis/JrLechLcha-2019-1.pdf)
 * [Vayeira-2018-1.pdf](../RavTorah/Genesis/Vayeira-1.pdf)
 * [Vayeira-2018-1.md](../RavTorah/Genesis/Vayeira-1.md)
+* [Vayera-2020-1.md](../RavTorah/Genesis/Vayera-2020-1.md)
 * [Chayei Sara-2018-1,pdf](../RavTorah/Genesis/ChayeiSarah-1.pdf)
 * [Chayei Sara-2018-1.md](../RavTorah/Genesis/ChayeiSarah-1.md)
 * [Toldos-2018-1.pdf](../RavTorah/Genesis/toldos-1.pdf)
