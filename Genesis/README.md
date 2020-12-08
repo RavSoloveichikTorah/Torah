@@ -35,6 +35,8 @@
 * [JrVayishlach-2018-1.md](../JrTorah/Genesis/JrVayishlach-1.md)
 * [JrVayishlach-2019-1.md](../JrTorah/Genesis/JrVayishlach-2019-1.md)
 * [JrVayishlach-2019-1.pdf](../JrTorah/Genesis/JrVayishlach-2019-1.pdf)
+* [JrVayishlach-2020-1.md](../JrTorah/Genesis/JrVayishlach-2020-1.md)
+* [JrVayishlach-2020-1.pdf](../JrTorah/Genesis/JrVayishlach-2020-1.pdf)
 * [Vayayshev-2018-1.pdf](../RavTorah/Genesis/Vayayshev-1.pdf)
 * [Vayayshev-2018-1.md](../RavTorah/Genesis/Vayayshev-1.md)
 * [JrVayayshev-2018-1.pdf](../JrTorah/Genesis/JrVayayshev-1.pdf)
