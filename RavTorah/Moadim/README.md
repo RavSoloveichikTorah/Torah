@@ -6,7 +6,7 @@
 * [JrHallelPesachNight-2020.md](./JrHallelPesachNight.md)
 * [ErevPesachShechalBshabbos](./ErevPesachShechalBshabbos.pdf)
 * [ErevPesachShechalBshabbos.md](./ErevPesachShechalBshabbos.md)
-* [Koraych.md](./koraych.98.Updated.pdf)
+* [Koraych](./koraych.98.Updated.pdf)
 * [Koraych.md](./Koraych.md)
 * [JrShavuot-2019-1](./JrShavuot-2019-1.pdf)
 * [JrShavuot-2019-1.md](./JrShavuot-2019-1.md)
