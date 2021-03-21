@@ -2,6 +2,8 @@
 * [Pesach-2019-1.md](./Pesach-2019-1.md)
 * [JrVhigadtaLbincha-2020](./VhigadtaLbincha-2020.pdf)
 * [JrVhigadtaLbincha-2020.md](./VhigadtaLbincha-2020.md)
+* [JrHallelPesachNight-2020](./JrHallelPesachNight.pdf)
+* [JrHallelPesachNight-2020.md](./JrHallelPesachNight.md)
 * [JrShavuot-2019-1](./JrShavuot-2019-1.pdf)
 * [JrShavuot-2019-1.md](./JrShavuot-2019-1.md)
 * [JrMalchios-2019-1](./JrMalchios-2019-1.pdf)
