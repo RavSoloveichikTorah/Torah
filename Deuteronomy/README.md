@@ -6,6 +6,8 @@
 * [KiTeitzay-2019-1.pdf](./KiTeitzay-2019-1.pdf)
 * [JrKiTeitzay-2019-1.md](../JrTorah/Deuteronomy/JrKiTeitzay-2019-1.md)
 * [JrKiTeitzay-2019-1.pdf](../JrTorah/Deuteronomy/JrKiTeitzay-2019-1.pdf)
+* [JrKiTeitzay-2021-1.md](../JrTorah/Deuteronomy/JrKiTeitze-2021-1.md)
+* [JrKiTeitzay-2021-1.pdf](../JrTorah/Deuteronomy/JrKiTeitze-2021-1.pdf)
 * [KiTavo-2019-1.md](./KiTavo-2019-1.md)
 * [KiTavo-2019-1.pdf](./KiTavo-2019-1.pdf)
 * [JrKiTavo-2019-1.md](./JrKitavo-2019-1.md)
