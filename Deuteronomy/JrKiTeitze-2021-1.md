@@ -1,0 +1,35 @@
+Rambam derives the laws regarding the 30 day mourning period, Shloshim, from the verse in Parshat Ki Teitze.  
+( הלכות אבלות ו א):
+מִדִבְרֵי סוֹפְרִים שֶׁיִּהְיֶה הָאָבֵל נוֹהֵג בְּמִקְצָת דִּבְרֵי אֲבֵלוּת כָּל שְׁלֹשִׁים יוֹם. וּמִנַּיִן סָמְכוּ חֲכָמִים לִשְׁלֹשִׁים יוֹם. שֶׁנֶּאֱמַר (דברים כא יג) "וּבָכְתָה אֶת אָבִיהָ וְאֶת אִמָּהּ יֶרַח יָמִים". מִכְלַל שֶׁהָאָבֵל מִצְטַעֵר כָּל שְׁלֹשִׁים יוֹם: 
+
+The יפת תואר, female captive who refuses to convert to Judaism immediately upon her capture, must undergo the 30 day process. Others, notably the Raavad (ibid) derive the 30 day mourning period from other places in the Torah that discuss personal grooming laws such as Nazir. There are other places in the Torah that mention a 30 day mourning period, for example the Torah records that both Jacob and Moses were mourned for 30 days.  Why was it preferable, according to Rambam, to derive the laws of Shloshim from the יפת תואר?
+
+In Judaism's view, the mourning period provides the framework for the individual suffering the loss of one of his seven relatives to adjust to the new reality, to resume life as best  he can. The mourning period structure allows (or requires) the individual to focus on his loss. The Onen is all-consumed with the burial, to the point he is absolved of all positive commandments. His singular focus is to arrange for and expedite the burial. After the burial, the period of Avaylut known as Shiva sets in, consisting of Torah and Rabbinic based obligations and restrictions regarding dress, grooming, marital relations, bathing and work. Upon the conclusion of Shiva, the mourner completes the next 23 days according to the rules of Shloshim which ease certain restrictions while maintaining others for the duration. A child continues the mourning period for the next 11 months, while those mourning for a sibling, child or spouse conclude their official mourning with the end of Shloshim.
+
+Clearly, the mourning period for a parent is significantly more intense and restrictive than for other relatives. Why is that the case? The Gemara says ( קידושין לא:ב):
+
+במותו כיצד היה אומר דבר שמועה מפיו לא יאמר כך אמר אבא אלא כך אמר אבא מרי הריני כפרת משכבו והני מילי תוך שנים עשר חדש מכאן ואילך אומר זכרונו לברכה לחיי העולם הבא
+ 
+Upon the passing of his father one who quotes his father should say that so said my father may I be an atonement for his resting place. After the passing of 12 months, when he quotes his father he adds “may his memory be a  blessing for eternal life”. Why do we conclude statements in the name of a parent differently during the year of mourning as opposed to after the conclusion of the year?
+
+The Torah records in the period of creation ( בראשית א יד):
+
+וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃
+ 
+The Torah records three  distinct time periods, days, fixed events or festivals and years. These periods are important in the life cycle of the Jew. That cycle focuses on the days that have special obligations for the Jew. It includes the months as units of time that regulate the festival cycle in the Jewish calendar. It also includes years that comprise the laws of the Sabbatical and Jubilee years
+
+The Jewish family is at the core of Jewish life. Parents, in particular, play a central role in guiding the child through the obligations of Jewish life, be it a day of the week or the Sabbath. The parent also focuses on the Moadim, i.e. the months that serve as the indicators or harbingers of the approaching festivals. The months and festivals are clearly interconnected, as the Mishna records (ראש השנה כא ב):
+
+עַל שְׁנֵי חֳדָשִׁים מְחַלְּלִין אֶת הַשַּׁבָּת עַל נִיסָן וְעַל תִּשְׁרִי שֶׁבָּהֶן שְׁלוּחִין יוֹצְאִין לְסוּרְיָא וּבָהֶן מְתַקְּנִין אֶת הַמּוֹעֲדוֹת וּכְשֶׁהָיָה בֵּית הַמִּקְדָּשׁ קַיָּים מְחַלְּלִין אַף עַל כּוּלָּן מִפְּנֵי תַּקָּנַת הַקׇּרְבָּן 
+
+Rambam says ( קדוש החדש א ז ):
+
+מִצְוַת עֲשֵׂה מִן הַתּוֹרָה עַל בֵּית דִּין שֶׁיְּחַשְּׁבוּ וְיֵדְעוּ אִם יֵרָאֶה הַיָּרֵחַ אוֹ לֹא יֵרָאֶה. וְשֶׁיִּדְרְשׁוּ אֶת הָעֵדִים עַד שֶׁיְּקַדְּשׁוּ אֶת הַחֹדֶשׁ. וְיִשְׁלְחוּ וְיוֹדִיעוּ שְׁאָר הָעָם בְּאֵי זֶה יוֹם הוּא רֹאשׁ חֹדֶשׁ כְּדֵי שֶׁיֵּדְעוּ בְּאֵי זֶה יוֹם הֵן הַמּוֹעֲדוֹת. שֶׁנֶּאֱמַר (ויקרא כג ב) "אֲשֶׁר תִּקְרְאוּ אֹתָם מִקְרָאֵי קֹדֶשׁ" וְנֶאֱמַר (שמות יג י) "וְשָׁמַרְתָּ אֶת הַחֻקָּה הַזֹּאת לְמוֹעֲדָהּ"
+ 
+In addition to the individual festivals associated with the months, there is also a yearly cycle that covers the festivals as a unit and other events that occur during the year that is governed by the annual cycle, as opposed to a specific month. We track the years as units in order to calculate the Sabbatical and Jubilee years. 
+
+Upon the loss of a relative, the daily routine of the mourner is thrown into disarray. He begins to focus on the first time period he now must face without his close relative. How will he get through the days ahead without his newly departed loved one. At the end of the Shiva period, the mourner now must figure out how to make it through the next period of time, the months and their relationship to a specific festival, and cope with the loss of the individual that was always there to celebrate the joy of the festival. And finally the mourner must cope with the last of the three critical time periods, the year. He thinks about the relationship with his parent who is no longer there to teach and guide him. The loss is still fresh and the memories are raw. He recalls how his father conducted the Passover Seder, how he shook the Lulav and Etrog on Sukkot, how he prayed with great fervor on Rosh HaShana and Yom Kippur. Whenever the child thinks of his parent during the first year, it is through the lens of pain. His mind is focused on how much he misses him, הריני כפרת משכבו. After the year is over, and the child has gone through a complete cycle without his parent, his perspective changes. The pain diminishes to some degree while the appreciation of what his parent gave him increases, The child now sees his parent as a blessing and is thankful for all he gave him. He now looks at him respectfully, lovingly as אבא מרי זכרונו לברכה.
+
+The Rambam quoted the verse related to months regarding Shloshim because the Shloshim period represents the focus on the Moadim, the months, as they relate to the Jewish cycle. It is more than simply a collection of 30 separate days.  The other verses  speak about an extended mourning period of 30 days. The Halacha is interested in the various segments that together comprise the cycle of mourning. Rambam is emphasizing the importance of the months as distinct units with an integral role implanted by Gd in the very creation of the world. They are not simply a collection of 30 days.
+
+Copyright 2021, Rabbi Joshua Rapps. All rights reserved. Permission granted to print for individual use. Inclusion in and/or distribution via printed or electronic media is prohibited without permission of the author.
