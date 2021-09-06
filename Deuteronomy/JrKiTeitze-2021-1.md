@@ -1,4 +1,5 @@
 Rambam derives the laws regarding the 30 day mourning period, Shloshim, from the verse in Parshat Ki Teitze. ( הלכות אבלות ו א):
+
 מִדִבְרֵי סוֹפְרִים שֶׁיִּהְיֶה הָאָבֵל נוֹהֵג בְּמִקְצָת דִּבְרֵי אֲבֵלוּת כָּל שְׁלֹשִׁים יוֹם. וּמִנַּיִן סָמְכוּ חֲכָמִים לִשְׁלֹשִׁים יוֹם. שֶׁנֶּאֱמַר (דברים כא יג) "וּבָכְתָה אֶת אָבִיהָ וְאֶת אִמָּהּ יֶרַח יָמִים". מִכְלַל שֶׁהָאָבֵל מִצְטַעֵר כָּל שְׁלֹשִׁים יוֹם: 
 
 The יפת תואר, female captive who refuses to convert to Judaism immediately upon her capture, must undergo the 30 day process. Others, notably the Raavad (ibid) derive the 30 day mourning period from other places in the Torah that discuss personal grooming laws such as Nazir. There are other places in the Torah that mention a 30 day mourning period, for example the Torah records that both Aaron           (במדהר כא כט) and Moses (דברים לד ח) were mourned for 30 days.  Why was it preferable, according to Rambam, to derive the laws of Shloshim from the יפת תואר?
