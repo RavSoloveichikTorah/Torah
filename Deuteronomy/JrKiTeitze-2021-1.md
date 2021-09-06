@@ -19,13 +19,16 @@ The Torah records in the period of creation ( בראשית א יד):
 The Torah records three  distinct time periods, days, fixed events or festivals and years. These periods are important in the life cycle of the Jew. The first important group is days. The Jewish week is comprised of seven days with the Sabbath being the climax of the week. Each day is a unique milestone along the way to reaching the holy Sabbath, the day Gd Himself sanctified and gave us as His day of rest. Every morning we preface the song of the day, שיר של יום, by saying today is the first, second third, etc, day of the week. We use the word שבת to indicate week because we are counting towards that ultimate day of the week. The Sabbath day provides the glue that binds the days of the week into a sequence of events and commandments we follow in celebrating the regulat week and Gd's creation of the world. 
 
 The cycle includes מועדים, designated times, which usually refer to the five festivals, Passover Shavuot, Rosh HaShana, Yom Kippur and Sukkot. However the Gemara, in several places, has an interesting take on the word מועד:
+
 :(שבועות י א)
 והא ר"ח לאו מועד הוא איברא ר"ח נמי איקרי מועד כדאמר אביי דאמר אביי תמוז דההיא שתא מלויי מליוהו דכתיב (איכה א, טו) קרא עלי מועד לשבור בחורי
+
 The Gemara refers to ראש חדש, the new moon, as מועד, an appointed time. The month of Tammuz had two days Rosh Chodesh in the year Moses sent the spies in order to guarantee they would return after their 40 day trip on the eighth of Av. The people cried without cause on the night of the ninth of Av, and Gd swore that the night of Tisha B'Av would forever be designated, as a מועד,  a night of true mourning for the destruction of both Temples that occurred on Tish B'Av.
 
 The months are the units of time that regulate the festival cycle in the Jewish calendar. The months are the indicators or harbingers of the approaching festivals. The months and festivals are clearly interconnected, as the Mishna records (ראש השנה יח א ):
 
 עַל שִׁשָּׁה חֳדָשִׁים הַשְּׁלוּחִין יוֹצְאִין עַל נִיסָן מִפְּנֵי הַפֶּסַח עַל אָב מִפְּנֵי הַתַּעֲנִית עַל אֱלוּל מִפְּנֵי רֹאשׁ הַשָּׁנָה עַל תִּשְׁרֵי מִפְּנֵי תַּקָּנַת הַמּוֹעֲדוֹת עַל כִּסְלֵיו מִפְּנֵי חֲנוּכָּה וְעַל אֲדָר מִפְּנֵי הַפּוּרִים וּכְשֶׁהָיָה בֵּית הַמִּקְדָּשׁ קַיָּים יוֹצְאִין אַף עַל אִיָּיר מִפְּנֵי פֶּסַח קָטָן
+
 Emissaries were sent to the surrounding communities to inform them when the new moon was sanctified in order to ensure the proper observance of the festival that occurred in a particular month. Tisha B'Av itself is also referred to as a מועד, which makes its inclusion in the above Mishna with the other מועדים most appropriate. Rambam says ( קדוש החדש א ז ):
 
 מִצְוַת עֲשֵׂה מִן הַתּוֹרָה עַל בֵּית דִּין שֶׁיְּחַשְּׁבוּ וְיֵדְעוּ אִם יֵרָאֶה הַיָּרֵחַ אוֹ לֹא יֵרָאֶה. וְשֶׁיִּדְרְשׁוּ אֶת הָעֵדִים עַד שֶׁיְּקַדְּשׁוּ אֶת הַחֹדֶשׁ. וְיִשְׁלְחוּ וְיוֹדִיעוּ שְׁאָר הָעָם בְּאֵי זֶה יוֹם הוּא רֹאשׁ חֹדֶשׁ כְּדֵי שֶׁיֵּדְעוּ בְּאֵי זֶה יוֹם הֵן הַמּוֹעֲדוֹת. שֶׁנֶּאֱמַר (ויקרא כג ב) "אֲשֶׁר תִּקְרְאוּ אֹתָם מִקְרָאֵי קֹדֶשׁ" וְנֶאֱמַר (שמות יג י) "וְשָׁמַרְתָּ אֶת הַחֻקָּה הַזֹּאת לְמוֹעֲדָהּ"
