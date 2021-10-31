@@ -21,7 +21,7 @@
 * [Chayei Sara-2018-1.md](../RavTorah/Genesis/ChayeiSarah-1.md)
 * [Chayei Sara-2020-1,pdf](../RavTorah/Genesis/ChayeiSarah-2020-1.pdf)
 * [Chayei Sara-2020-1,md](../RavTorah/Genesis/ChayeiSarah-2020-1.md)
-* [Chayei Sara-2021-1,md](../RavTorah/Genesis/ChayaySarah-2021-1.pdf)
+* [Chayei Sara-2021-1,pdf](../RavTorah/Genesis/ChayaySarah-2021-1.pdf)
 * [Chayei Sara-2021-1,md](../RavTorah/Genesis/ChayaySarah-2021-1.md)
 * [JrChayaySarah-2021-1.md](../JrTorah/Genesis/JrChayaySarah-2021-1.pdf)
 * [JrChayaySarah-2021-1.md](../JrTorah/Genesis/JrChayaySarah-2021-1.md)
