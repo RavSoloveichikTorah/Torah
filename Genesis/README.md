@@ -34,7 +34,7 @@
 * [Vayaytzay-2018-1.pdf](../RavTorah/Genesis/Vayaytzay-1.pdf)
 * [Vayaytzay-2018-1.md](../RavTorah/Genesis/Vayaytzay-1.md)
 * [Vayaytzay-2021-1.pdf](../RavTorah/Genesis/Vayeitzay-2021-1.pdf)
-* [Vayaytzay-2021-1.md](../RavTorah/Genesis/Vayeitzay-2021-1.md)
+* [Vayaytzay-2021-1.md](../RavTorah/Genesis/vayeitzay-2021-1.md)
 * [JrVayatzay-2018-1.md](../JrTorah/Genesis/Vayaytzay-1-JR.md)
 * [JrVayatzay-2018-1.pdf](../JrTorah/Genesis/Vayaytzay-1-JR.pdf)
 * [Vayishlach-2018-1.pdf](../RavTorah/Genesis/Vayishlach-1.pdf)
