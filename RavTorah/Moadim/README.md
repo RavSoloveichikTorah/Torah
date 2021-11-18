@@ -18,3 +18,5 @@
 * [JrYomKippur-2019-1.md](./JrYomKippur-2019-1.md)
 * [Chanukah-2019-1](./Chanukah-2019-1.pdf)
 * [Chanukah-2019-1.md](./Chanukah-2019-1.md)
+* [HaftorahShabbatChanukah-2021-1.md](./HaftorahShabbatChanukah.md)
+* [HaftorahShabbatChanukah-2021-1.md](./HaftorahShabbatChanukah.pdf)
