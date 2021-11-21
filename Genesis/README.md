@@ -61,6 +61,8 @@
 * [Vayigash-2018-1.md](../RavTorah/Genesis/Vayigash-2018-1.md)
 * [JrVayigash-2018-1.pdf](../JrTorah/Genesis/JrVayigash-2018-1.pdf)
 * [JrVayigash-2018-1.md](../JrTorah/Genesis/JrVayigash-2018-1.md)
+* [JrVayigash-2021-1.pdf](../JrTorah/Genesis/JrVayigash-2021-1.pdf)
+* [JrVayigash-2021-1.md](../JrTorah/Genesis/JrVayigash-2021-1.md)
 * [Vayechi-2018-1](../RavTorah/Genesis/vayechi_2018-1.pdf)
 * [Vayechi-2018-1.md](../RavTorah/Genesis/Vayechi-2018-1.md)
 * [Vayechi-2018-2](../RavTorah/Genesis/Vayechi-2018-2.pdf)
