@@ -53,6 +53,8 @@
 * [Vayayshev-2018-1.md](../RavTorah/Genesis/Vayayshev-1.md)
 * [JrVayayshev-2018-1.pdf](../JrTorah/Genesis/JrVayayshev-1.pdf)
 * [JrVayayshev-2018-1.md](../JrTorah/Genesis/JrVayayshev-1.md)
+* [JrVayayshev-2021-1.pdf](../JrTorah/Genesis/JrVayayshev-2021-1.pdf)
+* [JrVayayshev-2021-1.md](../JrTorah/Genesis/JrVayayshev-2021-1.md)
 * [Chanukah 2018-1.pdf](../RavTorah/Genesis/Chanukah-2018.pdf)
 * [Chanukah 2018-1.md](../RavTorah/Genesis/Chanukah-2018.md)
 * [JrMiketz-2018-1.pdf](../JrTorah/Genesis/JrMiketz-2018-1.pdf)
