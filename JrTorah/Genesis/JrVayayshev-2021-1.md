@@ -61,6 +61,8 @@ They ask forgiveness in the name of the Gd of your father, the Gd whose name you
 Joseph replies:
 וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל־תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי׃ 
 
-He realized they finally understood him, that it was always about שם שמים שגור בפיו and he forgives them.
+He realized they finally understood him, that it was always about שם שמים שגור בפיו and he forgives them. He remains the same Joseph who before he dies, strengthens the Jewish people by telling them eventually Gd will remember them and they will leave Egypt and return home: (בראשית ח כד):
+וַיֹּ֤אמֶר יוֹסֵף֙ אֶל־אֶחָ֔יו אָנֹכִ֖י מֵ֑ת וֵֽאלֹהִ֞ים פָּקֹ֧ד יִפְקֹ֣ד אֶתְכֶ֗ם וְהֶעֱלָ֤ה אֶתְכֶם֙ מִן־הָאָ֣רֶץ הַזֹּ֔את אֶל־הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃ 
+The name of Gd was always on his lips and his faith remained intact till the very end. Reliance on Gd and invoking His name properly is sine qua non for inclusion among the great patriarchs of the Jewish People. Perhaps that is why among all the brothers, Joseph alone is considered among the great patriarchs of the Jewish people, for he alone exemplified  שֵׁם שָׁמַיִם שָׁגוּר בְּפִיו.
 
 Copyright 2021, Rabbi Joshua Rapps. All rights reserved. Permission granted to print for individual use. Inclusion in and/or distribution via printed or electronic media is prohibited without permission of the author.
