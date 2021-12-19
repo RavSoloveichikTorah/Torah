@@ -69,3 +69,5 @@
 * [Vayechi-2018-1.md](../RavTorah/Genesis/Vayechi-2018-1.md)
 * [Vayechi-2018-2](../RavTorah/Genesis/Vayechi-2018-2.pdf)
 * [Vayechi-2018-2.md](../RavTorah/Genesis/Vayechi-2018-2.md)
+* [JrVayechi-2021-1.pdf](../JrTorah/Genesis/JrVayechi-2021-1.pdf)
+* [JrVayechi-2021-1.md](../JrTorah/Genesis/JrVayechi-2021-1.md)
