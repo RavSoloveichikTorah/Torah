@@ -23,6 +23,8 @@
 * [Bshalach-2022-1.md](../RavTorah/Exodus/Bshalach-2022-1.md)
 * [Bshalach-2022-2](../RavTorah/Exodus/Bshalach-2022-2.pdf)
 * [Bshalach-2022-2.md](../RavTorah/Exodus/Bshalach-2022-2.md)
+* [JrBshalach-2022-1](../JrTorah/Exodus/JrBshalach-2022-1.pdf)
+* [JrBshalach-2022-1.md](../JrTorah/Exodus/JrBshalach-2022-1.md)
 * [Yisro-2019-1](../RavTorah/Exodus/Yisro-2019-1.pdf)
 * [Yisro-2019-1.md](../RavTorah/Exodus/Yisro-2019-1.md)
 * [Yisro-2019-2](../RavTorah/Exodus/Yisro-2019-2.pdf)
