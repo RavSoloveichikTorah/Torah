@@ -3,7 +3,7 @@ The Talmud says that there are 3 cases where events move in lockstep. One of the
 (מב א ברכות)
  שָׁלֹשׁ תְּכִיפוֹת הֵן: תֵּכֶף לִסְמִיכָה שְׁחִיטָה, תֵּכֶף לִגְאוּלָּה תְּפִלָּה, תֵּכֶף לִנְטִילַת יָדַיִם בְּרָכָה
 
-According to Talmud Yerushalmi, the connection between גאולה and תפלה is derived from the juxtaposition of the conclusion of chapter 19 of Psalms, השם צורי וגואלי, and Chapter 20, יענך השם ביום צרה. The juxtaposition of גאולה and תפלה occurs in both the morning and evening services. In the morning service the blessing is directly connected to the עמידה while in the evening we extend the גאולה with the blessing of השכבנו. If they both have the same requirement to follow each other, and both conclude the same way with why are the texts of the morning and evening blessings different?
+According to Talmud Yerushalmi, the connection between גאולה and תפלה is derived from the juxtaposition of the conclusion of chapter 19 of Psalms, השם צורי וגואלי, and Chapter 20, יענך השם ביום צרה. The juxtaposition of גאולה and תפלה occurs in both the morning and evening services. In the morning service the blessing is directly connected to the עמידה while in the evening we extend the גאולה with the blessing of השכבנו. If they both have the same requirement to follow each other, and both conclude the same way, why are the texts of the morning and evening blessings different?
 
 The morning version of the blessing focuses on praising Gd for many things, including the exodus as well as assisting the poor, releasing the imprisoned and for answering the prayers of the Jewish people. As we say every morning in שחרית:
 
