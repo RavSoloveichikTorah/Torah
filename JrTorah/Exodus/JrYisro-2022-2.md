@@ -1,6 +1,8 @@
 The Torah tells us that Moshe put in extremely long hours trying to counsel, judge and mediate between litigants. 
+
 (שמות יח יג)
 ויהי ממחרת וישב משה לשפט את־העם ויעמד העם על־משה מן־הבקר עד־הערב
+
 There is a dispute among commentators as to whether the next morning, ממחרת, refers to the day after Yom Kippur when Moses descended Mount Sinai with the second set of Tablets, לוחות הברית, or whether Yitro arrived before מתן תורה and this story preceded the events at Sinai. But clearly, Yitro observed Moses judging the people. He immediately recognized that Moses was setting himself up for failure. Moses acting as individual  and single judge was unsustainable.
 
 ויאמר חתן משה אליו לא־טוב הדבר אשר אתה עשה נבל תבל גם־אתה גם־העם הזה אשר עמך כי־כבד ממך הדבר לא־תוכל עשהו לבדך
