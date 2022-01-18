@@ -22,6 +22,7 @@ Yitro made it clear that his suggestion required Gd’s approval and agreement. 
 הבו לכם אנשים חכמים ונבנים וידעים לשבטיכם ואשימם בראשיכם
 
 If we compare this with the narrative from פרשת יתרו:
+
 ואתה תחזה מכל־העם אנשי־חיל יראי אלהים אנשי אמת שנאי בצע ושמת עלהם שרי אלפים שרי מאות שרי חמשים ושרי עשרת
 The qualifications specified are different than those in פרשת דברים. While a need to nominate wise and educated people to these positions makes sense, why did Yitro focus on the moral and incorruptibility requirements? 
 
