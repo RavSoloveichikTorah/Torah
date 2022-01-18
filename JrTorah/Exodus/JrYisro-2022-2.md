@@ -12,6 +12,7 @@ The difficulties in managing litigants and trying to judge fairly would require 
 Yitro had an insight into the problem Moses was facing even though Moses himself did not recognize the situation. Yitro’s recommendation would allow Moses to remain connected to the people by taking on the difficult cases that the appointees were unable to handle. Yet it would make him available for his primary role of teacher and leader of the Jewish People. For it was imperative for Moses to teach the people Gd’s laws and how to act appropriately in order that they merit to inherit the land. 
 
 אם את־הדבר הזה תעשה וצוך אלהים ויכלת עמד וגם כל־העם הזה על־מקמו יבא בשלום
+
 Moses’ role as teacher was emphasized at various incidents recorded in the Torah, including the golden calf and the incident at מי מריבה. When the people failed to absorb the 
 lessons and act according to the way Moses taught them for 40 years, Moses realized he failed. However Yitro’s insight into Moses’ role, and the need for him to dedicate himself completely to that role, was accurate
 
