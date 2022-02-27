@@ -1,10 +1,14 @@
 (שמות כה ח-ט) ועשו לי מקדש ושכנתי בתוכם ככל אשר אני מראה אותך את תבנית המשכן ואת תבנית כל־כליו וכן תעשו
+
 The root word עשה, usually translated to mean to do or make, features prominently in the Parshiot detailing the construction of the Tabernacle and the associated items such as the priestly vestments, the oil and incense used in the Tabernacle. Rashi explains that the repeated use of the word instructs us that in the future, when a successor to the Tabernacle and associated items are constructed, they should follow the same blueprint and design related by Moses and used in the construction of the Tabernacle. 
 Ramban disagrees and says it refers to the attitude that should be adopted when constructing all the vessels:
+
 ככל אשר אני מראה אותך את תבנית המשכן הזה אשר אמרתי שאשכון בו בתוכם ואת תבנית כל כליו וכפל וכן תעשו כולכם בזריזות וחריצות
+
 The goal of the instruction וכן תעשו, is to instruct the people to act with alacrity when it comes to building the Tabernacle. They should approach each item, big or small, first or last, with the same zeal and sense of mission and purpose. Let us take a deeper look at Ramban’s comment by looking at the verses at the conclusion of Creation:
 
 (בראשית ב ב-ג)  ויכלו השמים והארץ וכל־צבאם ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבת ביום השביעי מכל־מלאכתו אשר עשה ויברך אלהים את־יום השביעי ויקדש אתו כי בו שבת מכל־מלאכתו אשר־ברא אלהים לעשות
+
 Why was it necessary to repeat the root word עשה in these verses? Because creation was not a one-time act. It required and continues to require the constant attention of Gd to maintain all that He created on a continual basis, המחדש בטובו בכל יום תמיד מעשה בראשית. Gd views creation and maintenance as the same. The former necessitated the latter and Gd consistently displays the same dedication to the maintenance of creation as He did to the initial creation.
 The people were enthused to build the Tabernacle. They stepped up and volunteered their material and physical talents, so much so that the requirements for construction were donated unexpectedly quickly. For each item that was built, the Torah repeated ויעשו כן, the people performed the task. The upshot was that they did not waver in their zeal, careful attention to detail and speed of execution. According to Rashi and Ramban, the same sense of dedication and purpose was required regardless of whether the people were building the first Tabernacle or the Temple in Jerusalem many years later. Gd wanted to ensure that the people not lose their sense of purpose no matter how many times they would have to build something for the Temple.
 
@@ -24,7 +28,9 @@ The Torah introduced the lighting of the Menorah in Parashat Tetzaveh because, l
 We now understand why the last verses prior to Moses descending Mount Sinai with the Tablets deal with the Sabbath. The people were about to undertake the building of the Tabernacle. They were excited and exuberant. That exuberance could lead them to focus on the immediate and ignore and violate the consistent, the Sabbath. Gd told Moses that the Sabbath was non-negotiable. The inviolability of the Sabbath, which occurs regularly every seven days reinforces the message about the importance of consistency, תדיר. He was instructed to inform the people that the Sabbath takes precedence, even when it comes to building the Tabernacle. 
 
 Chazal tell us that more than the Jews kept the Sabbath, the Sabbath kept the Jews. We have been without the Temple for over two thousand years. Yet the Jewish People are still alive and as connected and committed as they were when the Temple stood. We can survive the absence of the Temple, but when the Sabbath is violated, it invariably leads to assimilation. Without the Sabbath we would have disappeared years ago. That is why Gd instructed Moses to tell the people
+
 (שמות לא טז-יז) ושמרו בני־ישראל את־השבת לעשות את־השבת לדרתם ברית עולם ביני ובין בני ישראל אות הוא לעלם כי־ששת ימים עשה יהוה את־השמים ואת־הארץ וביום השביעי שבת וינפש
+
 The Jewish People were requested, even required, to treat the Sabbath with the same exuberance each week, to never grow bored or tired of it. The consistency and permanence of the covenant with Gd depends on the Jewish People maintaining their excitement for and adherence to keeping and safeguardng the Sabbath.
 
 Copyright 2022, Rabbi Joshua Rapps. All rights reserved. Permission granted to print for individual use. Inclusion in and/or distribution via printed or electronic media is prohibited without permission of the author. 
