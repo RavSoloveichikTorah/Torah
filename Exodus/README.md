@@ -41,6 +41,8 @@
 * [JrMishpatim-2019-1.md](../JrTorah/Exodus/JrMishpatim-2019-1.md)
 * [Teruma-2019-1](../RavTorah/Exodus/Teruma-2019-1.pdf)
 * [Teruma-2019-1.md](../RavTorah/Exodus/Teruma-2019-1.md)
+* [JrTerumah-2022-1](../JrTorah/Exodus/JrTerumah-2022-1.pdf)
+* [JrTerumah-2022-1.md](../JrTorah/Exodus/JrTerumah-2022-1.md)
 * [Tetzaveh-2019-1](../RavTorah/Exodus/Tetzaveh-2019-1.pdf)
 * [Tetzaveh-2019-1.md](../RavTorah/Exodus/Tetzaveh-2019-1.md)
 * [KiTisa-2019-1](../RavTorah/Exodus/KiTisa-2019-1.pdf)
