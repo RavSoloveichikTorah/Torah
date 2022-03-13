@@ -1,5 +1,7 @@
 * [Vayikra-2019-1.pdf](../RavTorah/Leviticus/Vayikra-2019-1.pdf)
 * [Vayikra-2019-1.md](../RavTorah/Leviticus/Vayikra-2019-1.md)
+* [JrVayikra-2022-1.pdf](../JrTorah/Leviticus/JrVayikra-2022-1.pdf)
+* [JrVayikra-2022-1.md](../JrTorah/Leviticus/JrVayikra-2022-1.md)
 * [JrTzav-2020-1.pdf](../JrTorah/Leviticus/JrTzav-2020-1.pdf)
 * [JrTzav-2020-1.md](../JrTorah/Leviticus/JrTzav-2020-1.md)
 * [Parah-2019-1.pdf](../RavTorah/Leviticus/Parah-2019-1.pdf)
