@@ -2,7 +2,7 @@ The Torah commands the Jew to revere his father and mother and to keep the Sabba
 
 The Gemara (Kidushin 31b) explains that there are 2 forms of honor involving a parent: כבוד (respect) and מורא (reverence). The Gemara defines כבוד as physical care given to a parent, for example, bathing clothing, feeding etc. The child is responsible for the physical needs of the parent, even if the child must pay for that care from his own resources. The Gemara definesמורא  as acting in a reverent way towards the parent. For example, one may not sit in his father's chair, or contradict him. The Torah commands that we give כבוד and מורא to a parent, and a Torah scholar as well, מורא רבך כמורא שמים, the reverence required from student to teacher is similar to the reverence a person must give Gd. 
 
-כבוד applies to Gd as well as a human being (e.g.הברית   כבוד). מורא, awe or reverence, is a characteristic that applies solely to Gd and not to a human being. The מורא  that is required towards Gd is not the fear of punishment, מורא העונש, but rather it is the מורא הרוממות, awe and reverence at the exaltation of Gd.
+Honor, כבוד, applies to Gd as well as a human being (e.g.הברית   כבוד). מורא, awe or reverence, is a characteristic that applies solely to Gd and not to a human being. The מורא  that is required towards Gd is not the fear of punishment, מורא העונש, but rather it is the מורא הרוממות, awe and reverence at the exaltation of Gd.
 
 Applying the attribute of reverence to a mortal being borders on the blasphemous. So why did the Torah command us to give יראה to a father and mother? Also, how is it possible to show יראה towards an object, for example the Mishkan?
 
