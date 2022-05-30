@@ -8,7 +8,7 @@ Yom Kippur is referred to as the Day of Judgement, יום הדין. One who is o
 
 Yom Kippur is a day in which we take stock of our life, a חשבון הנפש, of the past year in particular and our life to date in general. We ask penetrating questions of ourselves, questions that are often difficult to answer. Besides reflecting on our relationship with Gd, we reflect on our relationships with others. We use the different forms of the word ענה, for this. We testify to and answer the questions of how did we treat our parents? Our spouse? Our children? Our friends? Those not yet our friends? Did we act responsibly and appropriately in our business dealings? 
 
-תענו את נפפשותיכם means answering the penetrating and difficult questions about our lives that we often close our eyes to and pretend are not there. These questions and answers can often be more of a psychological and cathartic affliction to a person than the 5 physical afflictions or actions to refrain from on Yom Kippur. They are just as necessary in order to attain atonement on this most unique and awesome day.
+The words תענו את נפפשותיכם means answering the penetrating and difficult questions about our lives that we often close our eyes to and pretend are not there. These questions and answers can often be more of a psychological and cathartic affliction to a person than the 5 physical afflictions or actions to refrain from on Yom Kippur. They are just as necessary in order to attain atonement on this most unique and awesome day.
 
 This summary is copyright 2019 by Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
