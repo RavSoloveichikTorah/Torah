@@ -4,7 +4,9 @@ The Gemara ( ברכות ח:א ) says:
 ואמר רבי חייא בר אמי משמיה דעולא לעולם ידור אדם במקום רבו שכל זמן ששמעי בן גרא קיים לא נשא שלמה את בת פרעה והתניא אל ידור לא קשיא הא דכייף ליה הא דלא כייף ליה
 
 Rabbi Hiya the son of Rabbi Ami said in the name of Ula, a person should always live in close proximity to his teacher. For as long as Shimi the son of Gera lived, King Solomon did not marry Pharaoh's daughter. The Gemara challenges this statement from another ברייתא source that says the opposite, one should not dwell in close proximity to his teacher. The Gemara resolves the contradiction by applying Ula's statement to an individual who is obedient to his teacher and willingly accepts his guidance and rebuke, while the latter ברייתא refers to one who rejects his teacher's guidance. Rashi comments:
- דכייף ליה. אם כפוף הוא לרבו לקבל תוכחתו ידור אצלו ואם לאו טוב להתרחק ממנו ויהי שוגג ואל יהי מזיד:       
+
+דכייף ליה. אם כפוף הוא לרבו לקבל תוכחתו ידור אצלו ואם לאו טוב להתרחק ממנו ויהי שוגג ואל יהי מזיד:       
+
 Rashi explains that one who will not accept rebuke from his teacher will sin regardless of his proximity to his teacher. It is better that he distance himself from his teacher so he may be considered a שוגג (error of omission), and not a מזיד (willful error of commission).
 
 At first glance, Rashi's explanation is difficult to understand. Why should the proximity to one's teacher have any impact on the classification of the act of sin? The individual's mindset is the same regardless, so why do we consider the sinner as inadvertently erring in the case where he is distant from his teacher?
