@@ -12,7 +12,7 @@ The Rabbis teach us that the juxtaposition of the laws of Sotah and Nazir inform
 
 The Priest is responsible to teach the people to behave appropriately towards their fellow man as well as towards Gd. When they fail, or worse, enable the people to act immorally, they defile their roles as teachers and responsibility to bless the people. Gd told Ezekiel that the Priests corrupted the Torah and together with their leaders facilitated the abuse of the converts and downtrodden among them. Gd lamented that there was no Priest or scholar to oppose these evil people, to prevent the impending destruction of the land and exile of the people. The Priests were supposed to facilitate the association of Gd’s name with the people. Instead they were complicit in driving them apart and the ultimate exile of the people from the land.
 
-פרשת נשא teaches us how to prepare to enter the land and to act once we inherit it. Unfortunately, the people defiled themselves by acting in opposition to the lessons of the Parsha, foreshadowing their exile from the land.
+So פרשת נשא teaches us how to prepare to enter the land and to act once we inherit it. Unfortunately, the people defiled themselves by acting in opposition to the lessons of the Parsha, foreshadowing their exile from the land.
 
 © Copyright 2019 Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
