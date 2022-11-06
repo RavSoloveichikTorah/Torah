@@ -18,6 +18,8 @@
 * [JrYomKippur-2019-1.md](./JrYomKippur-2019-1.md)
 * [Chanukah-2019-1](./Chanukah-2019-1.pdf)
 * [Chanukah-2019-1.md](./Chanukah-2019-1.md)
+* [Chanukah-2022-1.md](../RavTorah/Genesis/VayeiraVayeishevChanukah-2022-1.md)
+* [Chanukah-2022-1.pdf](../RavTorah/Genesis/VayeiraVayeishevChanukah-2022-1.pdf)
 * [HaftorahShabbatChanukah-2021-1.md](./HaftorahShabbatChanukah.md)
 * [HaftorahShabbatChanukah-2021-1.pdf](./HaftorahShabbatChanukah.pdf)
 * [JR-SefirasHaOmer-2022-1.md](../../JrTorah/Moadim/JR-SefirasHaOmer-2022-1.md)
