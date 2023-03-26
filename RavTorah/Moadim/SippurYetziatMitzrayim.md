@@ -217,5 +217,4 @@ assume its role in this never ending chain. Until the students knock on their te
 Shema has arrived", that they are now ready to assume the leadership role. The essence of Sippur Yetzias Mitzrayim is to create the living books, the Seforim, that will ensure the continuity of Torah and Judaism, is not limited to the night of Pesach. It is an eternal mission.
 
 ---------------------------------------------------------------------------
-Copyright 1999, Josh Rapps and Israel Rivkin, Edison, NJ. Permission
-to reprint this Shiur, with this notice, is granted. 
+Copyright 2023, Josh Rapps, Edison, NJ. Permission to reprint this Shiur for personal use, with this notice, is granted. It may not be redistributed, copied, included in in another publication in any form without the author's permission.
