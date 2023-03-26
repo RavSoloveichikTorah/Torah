@@ -211,16 +211,11 @@ people of the book, not because they are avid readers, but because each
 and every Jew is a living book that has been authored by the previous
 generations.
 
-How long must we function as Sofrim, as scribes? When does the Jew
-complete his assignment of studying Torah? How long must we emulate
-the ways that Hashem created the world, through Sfor, Sippur and Sefer?
-Until we see that the next generation is ready to shoulder the load and
-assume its role in this never ending chain. Until the students knock on
-their teachers' door and say "Our Teachers, the time to recite the morning
-Shema has arrived", that they are now ready to assume the leadership
-role. The essence of Sippur Yetzias Mitzrayim is to create the living
-books, the Seforim, that will ensure the continuity of Torah and Judaism,
-is not limited to the night of Pesach. It is an eternal mission.
+How long must we function as Sofrim, as scribes? When does the Jew complete his assignment of studying Torah? How long must we emulate
+the ways that Hashem created the world, through Sfor, Sippur and Sefer? Until we see that the next generation is ready to shoulder the load and
+assume its role in this never ending chain. Until the students knock on their teachers' door and say "Our Teachers, the time to recite the morning
+Shema has arrived", that they are now ready to assume the leadership role. The essence of Sippur Yetzias Mitzrayim is to create the living books, the Seforim, that will ensure the continuity of Torah and Judaism, is not limited to the night of Pesach. It is an eternal mission.
+
 ---------------------------------------------------------------------------
 Copyright 1999, Josh Rapps and Israel Rivkin, Edison, NJ. Permission
 to reprint this Shiur, with this notice, is granted. 
