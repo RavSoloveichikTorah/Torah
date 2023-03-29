@@ -24,3 +24,4 @@
 * [HaftorahShabbatChanukah-2021-1.pdf](./HaftorahShabbatChanukah.pdf)
 * [JR-SefirasHaOmer-2022-1.md](../../JrTorah/Moadim/JR-SefirasHaOmer-2022-1.md)
 * [JR-SefirasHaOmer-2022-1.pdf](../../JrTorah/Moadim/JR-SefirasHaOmer-2022-1.pdf)
+* [Sippur Yetziat Mitzrayim](../../RavTorah/Moadim//SippurYetziatMitzrayim.md)
