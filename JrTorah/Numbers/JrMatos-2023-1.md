@@ -35,6 +35,3 @@ The tribes were concerned that the 2 and a half tribes would in the future reali
 Once the two and a half tribes took this oath, Moses and the rest of the tribes were convinced of their sincerity and agreed to give them the lands on the eastern bank of the Jordan river as their inheritance, and they settled the land. The repentance of the people was realized. With the oath in place, the two and a half tribes made their ironclad commitment to the remaining tribes, and the incident did not precipitate another crisis that would have potentially catastrophic repercussions. The laws pertaining to oaths and vows, as well as their connection to repentance, were central to this story as well.
 
 © Copyright 2023 Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
-
-
-![image](https://github.com/RavSoloveichikTorah/Torah/assets/44347771/5efae880-58da-409f-89bf-667c39952d85)
