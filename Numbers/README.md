@@ -35,4 +35,4 @@
 * [JrMatos-2019-1.md](../JrTorah/Numbers/JrMatos-2019-1.md)
 * [JrMatos-2019-1.pdf](../JrTorah/Numbers/JrMatos-2019-1.pdf)
 * [JrMatos-2023-1.md](../JrTorah/Numbers/JrMatos-2023-1.md)
-* [JrMatos-2023-1.pdf](../JrTorah/Numbers/JrMatot-2023-1.pdf)
+* [JrMatos-2023-1.pdf](../JrTorah/Numbers/JraMatot-2023-1.pdf)
