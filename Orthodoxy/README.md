@@ -1,2 +1,4 @@
 * [Questions Regarding Future of Orthodoxy in America.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Articles%20On%20Orthodocy/Questions%20Regarding%20Orthodox%20Judaism%20in%20America.md)
 * [Questions Regarding Future of Orthodoxy in America.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/Questions%20Regarding%20Orthodox%20Judaism%20in%20America.pdf)
+* [Orthodox, Conservative and Reform Jews In America](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OrthodoxConservativeJewsInAmerica.md)
+* [Orthodox, Conservative and Reform Jews In America](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OrthodoxConservativeJewsInAmerica.pdf)
