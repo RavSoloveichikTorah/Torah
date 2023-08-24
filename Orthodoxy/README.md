@@ -2,5 +2,5 @@
 * [Questions Regarding Future of Orthodoxy in America.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/Questions%20Regarding%20Orthodox%20Judaism%20in%20America.pdf)
 * [Orthodox, Conservative and Reform Jews In America.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OrthodoxConservativeJewsInAmerica.md)
 * [Orthodox, Conservative and Reform Jews In America.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OrthodoxConservativeJewsInAmerica.pdf)
-* [Can Men and Women Sit Together in Shul](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/menAndWomenSittingTogether.md)
-* [Can Men and Women Sit Together in Shul](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MixedSeating.pdf)
+* [Can Men and Women Sit Together in Shul.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/menAndWomenSittingTogether.md)
+* [Can Men and Women Sit Together in Shul.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MixedSeating.pdf)
