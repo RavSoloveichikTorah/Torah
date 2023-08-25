@@ -13,3 +13,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [Orthodox, Conservative and Reform Jews In America.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OrthodoxConservativeJewsInAmerica.pdf)
 * [Can Men and Women Sit Together in Shul.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/menAndWomenSittingTogether.md)
 * [Can Men and Women Sit Together in Shul.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MixedSeating.pdf)
+* [What Do We Expect from Yeshiva's Medical School.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MedSchool.md)
+* [What Do We Expect from Yeshiva's Medical School.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MedSchool.pdf)
