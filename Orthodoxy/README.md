@@ -15,3 +15,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [Can Men and Women Sit Together in Shul.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MixedSeating.pdf)
 * [What Do We Expect from Yeshiva's Medical School.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MedSchool.md)
 * [What Do We Expect from Yeshiva's Medical School.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MedSchool.pdf)
+* [How Should A Jew Pray.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/HowShouldAJewPray.md)
+* [How Should A Jew Pray.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/HowShouldAJewPray.pdf)
