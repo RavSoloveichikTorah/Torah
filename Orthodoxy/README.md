@@ -17,3 +17,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [What Do We Expect from Yeshiva's Medical School.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/MedSchool.pdf)
 * [How Should A Jew Pray.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/HowShouldAJewPray.md)
 * [How Should A Jew Pray.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/HowShouldAJewPray.pdf)
+* [Old Prayers and New Jews - Part 1.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OldPrayersNewJewsPart1.md)
+* [Old Prayers and New Jews - Part 1.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OldPrayersNewJewsPart1.pdf)
