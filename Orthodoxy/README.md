@@ -19,3 +19,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [How Should A Jew Pray.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/HowShouldAJewPray.pdf)
 * [Old Prayers and New Jews - Part 1.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OldPrayersNewJewsPart1.md)
 * [Old Prayers and New Jews - Part 1.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OldPrayersNewJewsPart1.pdf)
+* [Old Prayers and New Jews - Part 2.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/SiddurReforms2.md)
+* [Old Prayers and New Jews - Part 2.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/SiddurReforms2.pdf)
