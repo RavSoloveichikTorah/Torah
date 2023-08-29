@@ -23,4 +23,4 @@ Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find som
 * [מועדים](./RavTorah/Moadim/README.md)
 * [מחשבה](.//Machshava)
 
-* [Articles on Orthodoxy](./Orthodoxy/README.md)
+* [Articles on Orthodoxy - $${\color{yellow}New}$$](./Orthodoxy/README.md)
