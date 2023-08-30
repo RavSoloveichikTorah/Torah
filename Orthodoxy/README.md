@@ -21,5 +21,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [Old Prayers and New Jews - Part 1.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/OldPrayersNewJewsPart1.pdf)
 * [Old Prayers and New Jews - Part 2.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/SiddurReforms2.md)
 * [Old Prayers and New Jews - Part 2.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/SiddurReforms2.pdf)
-* [Ethical Moral Side of Judaism.md(https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/EthicalMoralSideofJudaism.md)
+* [Ethical Moral Side of Judaism.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/EthicalMoralSideofJudaism.md)
 * [Ethical Moral Side of Judaism.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/EthicalMoralSideofJudaism.pdf)
