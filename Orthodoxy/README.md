@@ -23,3 +23,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [Old Prayers and New Jews - Part 2.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/SiddurReforms2.pdf)
 * [Ethical Moral Side of Judaism.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/EthicalMoralSideofJudaism.md)
 * [Ethical Moral Side of Judaism.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/EthicalMoralSideofJudaism.pdf)
+* [Science Alone is Incapable of Elucidating the Secrets of the World.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/ScienceandJudaism.md)
+* [Science Alone is Incapable of Elucidating the Secrets of the World.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/ScienceandJudaism.pdf)
