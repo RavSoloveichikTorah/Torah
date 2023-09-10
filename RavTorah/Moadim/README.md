@@ -25,3 +25,5 @@
 * [JR-SefirasHaOmer-2022-1.md](../../JrTorah/Moadim/JR-SefirasHaOmer-2022-1.md)
 * [JR-SefirasHaOmer-2022-1.pdf](../../JrTorah/Moadim/JR-SefirasHaOmer-2022-1.pdf)
 * [Sippur Yetziat Mitzrayim](../../RavTorah/Moadim//SippurYetziatMitzrayim.md)
+* [Tefilas Chana.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrTefilatChana.pdf)
+* [Tefilas Chana.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrTefilatChana.md)
