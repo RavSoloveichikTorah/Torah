@@ -27,3 +27,4 @@
 * [Sippur Yetziat Mitzrayim](../../RavTorah/Moadim//SippurYetziatMitzrayim.md)
 * [Tefilas Chana.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrTefilatChana.pdf)
 * [Tefilas Chana.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrTefilatChana.md)
+* [JrRoshHashanahChanaSarah.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrRoshHashanahTefilatChanaSarah2023.pdf)
