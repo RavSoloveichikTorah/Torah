@@ -61,7 +61,7 @@ Footnotes:
 
 (6)  Ibid. This is similar to the statement of the Ramban (16:21) that as Bnay Yisrael are pure from sin as Hashem has forgiven their sins therefore the red amulet turns white as the Sair transforms to bones.
 
-(7)  See the Pnei Moshe who takes it for granted that the Chachamim require Teshuva. Also he interprets Rabbi Zayra as Kol Shehu meaning each moment of the day achieves an incremental atonement.
+(7)  See the Pnei Moshe who takes it for granted that the Chachamim require Teshuva. Also he interprets Rabbi Zeura as Kol Shehu meaning each moment of the day achieves an incremental atonement.
 
 (8)   See Yerushalmi (יומא ח:ז): אמר רבי חונה. איתתבת קומי רבי ירמיה ואמר. תיפתר שהיה בדעתן להביא שעיר אחר ולא הביאו. רבי יוסי בירבי בון בעי. ואין הקדוש ברוך הוא רואה את הנולד ויכפר מיד 
 If God knows that the people intended to bring the sacrifice but were prevented from doing so, He can give them credit for it immediately at the outset of Yom Kippur and need not wait till the end of the day. This should apply to us nowadays that we cannot bring the cumulative sacrifices to attain כפרה to subsequently achieve טהרה. Perhaps this is the opinion of Rabbi Zeura. Rabbi Chananya says that since Yom Kippur takes the place of the cumulative activities required for כפרה, טהרה can only be attained at the end of the day.
