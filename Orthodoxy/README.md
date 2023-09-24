@@ -27,3 +27,5 @@ The articles are provided in markdown **(.md)** and printed **(.pdf)** formats.
 * [Science Alone is Incapable of Elucidating the Secrets of the World.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/ScienceandJudaism.pdf)
 * [Terrible Sin of Our Generation Undermining Judaism.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/TerribleSinUnderminingJudaism.md)
 * [Terrible Sin of Our Generation Undermining Judaism.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/TerribleSinUnderminingJudaism.pdf)
+* [Importance of RIETS.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/ImportanceOfRiets.md)
+* [Importance of RIETS.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/Orthodoxy/ImportanceOfRiets.pdf)
