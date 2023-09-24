@@ -48,6 +48,7 @@ One whose merits exceed his demerits, is inscribed on Rosh Hashanah in the book 
 In conclusion, while deviation and rebellion against God can be atoned for throughout the year, the cleansing of the blemishes occurs once a year on Yom Kippur. Man dares not miss the opportunity afforded him on that day to attain כפרה and טהרה and return to a level of purity that grants admission to the company of God.
 
 Footnotes:
+
 (1)  It is interesting to note that this idea of the various books is also found in Erchin 10b where it is used as the rationale for defining Rosh Hashonah as a day of fear due to the impending judgement and therefore is inconsistent with the reciting of Hallel.
 
 (2)  Rosh Hashonah 16b, V'amar R' Yitzchak 4 Devarim M'karin etc.
