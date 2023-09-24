@@ -29,5 +29,7 @@
 * [Tefilas Chana.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrTefilatChana.md)
 * [JrRoshHashanahChanaSarah.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrRoshHashanahTefilatChanaSarah2023.pdf)
 * [JrRoshHashanahChanaSarah.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrRoshHashanahTefilatChanaSarah2023.md)
-* [JrKapparahAndTahara.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrKapparahAndTahara.pdf)
+* [JrKapparahAndTahara.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrKapparahTahara.pdf)
+* [JrKapparahAndTahara.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrKapparahTahara.md)
+
 
