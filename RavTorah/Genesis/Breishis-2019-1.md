@@ -1,4 +1,4 @@
-ויקרא אלקים לאור יום ולחשך קרא לילה ויהי ערב ויהי בקר יום אחד, "And Elokim called the light day and the darkness He called night, and it was evening, and it was morning, day one (Yom Echad)". The Midrash Rabbah comments that the term יום אחד refers to יום כפור. What is the connection between יום אחד and יום כפור?
+The Torah writes ויקרא אלקים לאור יום ולחשך קרא לילה ויהי ערב ויהי בקר יום אחד, "And Elokim called the light day and the darkness He called night, and it was evening, and it was morning, day one (Yom Echad)". The Midrash Rabbah comments that the term יום אחד refers to יום כפור. What is the connection between יום אחד and יום כפור?
 
 In Hebrew, the word אחד has 2 meanings: 1) the number one and 2) unique, singular or different. For example, שמע ישראל ד' אלקינו ד' אחד , Hear O Israel, the Lord our Gd, the Lord is One, Hashem Echad means that He is the one Gd as well as He is unique and beyond comparison with His creation. Similarly, יום כפור is one day yet it is a singular and unique day, different from all other days in the year.
 
