@@ -8,6 +8,8 @@
 * [Noach-2019-1.pdf](../RavTorah/Genesis/Noach-2019-1.pdf)
 * [Noach-2019-1.md](../RavTorah/Genesis/Noach-2019-1.md)
 * [JrNoach-2018-1.pdf](../JrTorah/Genesis/Noach-2018.pdf)
+* [JrNoach-2023-1.pdf](../JrTorah/Genesis/JrNoach-2023-1.pdf)
+* [JrNoach-2023-1.md](../JrTorah/Genesis/JrNoach-2023-1.md)
 * [LechLcha-2018-1.pdf](../RavTorah/Genesis/LechLcha-1.pdf)
 * [LechLcha-2018-1.md](../RavTorah/Genesis/LechLcha-1.md)
 * [JrLechLcha-2019-1.md](../JrTorah/Genesis/JrLechLcha-2019-1.md)
