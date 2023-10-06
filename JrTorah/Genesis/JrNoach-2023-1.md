@@ -1,4 +1,4 @@
-Lessons Learned
+**Lessons Learned**
 
 Ramban refers to Sefer Breishit as Sefer Yetzirah whose purpose is to present the stories of the patriarchs as they foreshadow Jewish History based on Maasay Avot Siman L'Banim. The first 3 Parshiot in Breishit present 3 unique stories of tragedy associated with Adam, Noah and Abraham. What lessons can we derive from them?
 
@@ -21,6 +21,3 @@ My mother is a direct descendant of illustrious Hassidic dynasties, including Ru
 This summary is copyright 2019 by Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
 This article was originally dedicated L’Zecher Nishmot Eitam and Naama Henkin, Aharon Bennett, Nehemia Lavi HY’D, who were murdered Al Kiddush Hashem.
-
-![image](https://github.com/RavSoloveichikTorah/Torah/assets/44347771/627ef079-4650-4f7d-8a5b-8e44c48ede0f)
-
