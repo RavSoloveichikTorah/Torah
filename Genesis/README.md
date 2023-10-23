@@ -4,6 +4,8 @@
 * [Breishis-2018-1.pdf](../RavTorah/Genesis/Breishis-2016.pdf)
 * [Breishis-2019-1.pdf](../RavTorah/Genesis/Breishis-2019-1.pdf)
 * [Breishis-2019-1.md](../RavTorah/Genesis/Breishis-2019-1.md)
+* [JrBreishis-2023-1.pdf](../JrTorah/Genesis/JrBreishis-2023-1.pdf)
+* [JrBreishis-2023-1.md](../JrTorah/Genesis/JrBreishis-2023-1.md)
 * [Noach-2018-1.pdf](../RavTorah/Genesis/Noach-2014.pdf)
 * [Noach-2019-1.pdf](../RavTorah/Genesis/Noach-2019-1.pdf)
 * [Noach-2019-1.md](../RavTorah/Genesis/Noach-2019-1.md)
