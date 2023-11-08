@@ -25,6 +25,8 @@
 * [VayeiraVayeishevChanukah-2022-1.md](../RavTorah/Genesis/VayeiraVayeishevChanukah-2022-1.md)
 * [JrVayeira-2022-1.pdf](../JrTorah/Genesis/JrVayeira-2022-1.pdf)
 * [JrVayeira-2022-1.md](../JrTorah/Genesis/JrVayeira-2022-1.md)
+* [Vayeira-2023-1,pdf](../RavTorah/Genesis/Vayeirah-2023-1.pdf)
+* [Vayeira-2023-1,md](../RavTorah/Genesis/Vayeirah-2023-1.md)
 * [Chayei Sara-2018-1,pdf](../RavTorah/Genesis/ChayeiSarah-1.pdf)
 * [Chayei Sara-2018-1.md](../RavTorah/Genesis/ChayeiSarah-1.md)
 * [Chayei Sara-2020-1,pdf](../RavTorah/Genesis/ChayeiSarah-2020-1.pdf)
