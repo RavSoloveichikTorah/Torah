@@ -37,6 +37,8 @@
 * [JrChayaySarah-2021-1.md](../JrTorah/Genesis/JrChayaySarah-2021-1.md)
 * [JrChayaySarah-2021-2.pdf](../JrTorah/Genesis/JrChayaySarah-2021-2.pdf)
 * [JrChayaySarah-2021-2.md](../JrTorah/Genesis/JrChayaySarah-2021-2.md)
+* [JrChayeiSarah-2023-1.pdf](../JrTorah/Genesis/JrChayeiSarah-2023-1.pdf)
+* [JrChayeiSarah-2023-1.md](../JrTorah/Genesis/JrChayeiSarah-2023-1.md)
 * [Toldos-2018-1.pdf](../RavTorah/Genesis/toldos-1.pdf)
 * [Toldos-2018-1.md](../RavTorah/Genesis/Toldos-1.md)
 * [Toldos-2019-1.pdf](../RavTorah/Genesis/Toldos-2019-1.pdf)
