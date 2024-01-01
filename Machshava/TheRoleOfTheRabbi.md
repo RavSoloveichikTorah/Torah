@@ -58,5 +58,3 @@ This article contains comments from the Rav ZT”L delivered in his address at t
 
 This summary is copyright 2023 by Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
-
-![image](https://github.com/RavSoloveichikTorah/Torah/assets/44347771/10f173e2-7fdf-4d57-803f-58fb5b607e0a)
