@@ -1,3 +1,5 @@
+* [AvdusHagada-2024.pdf](./AvdusHagada.pdf)
+* [AvdusHagada-2024.md](./AvdusHagada.md)
 * [Pesach-2019-1](./Pesach-2019-1.pdf)
 * [Pesach-2019-1.md](./Pesach-2019-1.md)
 * [JrPesachRemember-2021](./JRPesachRemember-2021.pdf)
