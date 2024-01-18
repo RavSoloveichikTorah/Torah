@@ -15,6 +15,7 @@
 * [Bo-2019-1.md](../RavTorah/Exodus/Bo-2019-1.md)
 * [Bo-2022-1](../RavTorah/Exodus/Bo-2022-1.pdf)
 * [Bo-2022-1.md](../RavTorah/Exodus/Bo-2022-1.md)
+* [Bo-2024-1.md](../Moadim/AvdusHagada-2024.md)
 * [JrBo-2022-1](../JrTorah/Exodus/JrBo-2022-1.pdf)
 * [JrBo-2022-1.md](../JrTorah/Exodus/JrBo-2022-1.md)
 * [Bshalach-2019-1](../RavTorah/Exodus/Bshalach-2019-1.pdf)
