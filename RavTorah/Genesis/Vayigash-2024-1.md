@@ -18,5 +18,3 @@ The Midrash comments on the verse Af Gam Zos BhYosam B’Eretz OyVeyhem Lo M’A
 
 This summary is copyright 2024 by Rabbi Josh Rapps. Permission to distribute this summary for individual use, with this notice, is granted. Distribution through electronic or printed media without the author’s permission is prohibited.
 
-
-![image](https://github.com/RavSoloveichikTorah/Torah/assets/44347771/b971797e-a3e8-4c4b-b4bb-e82b562ee7b7)
