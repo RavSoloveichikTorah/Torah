@@ -18,6 +18,8 @@
 * [JrLechLcha-2019-1.pdf](../JrTorah/Genesis/JrLechLcha-2019-1.pdf)
 * [JrLechLcha-2021-1.md](../JrTorah/Genesis/JrLechLcha-2021-1.md)
 * [JrLechLcha-2021-1.pdf](../JrTorah/Genesis/JrLechLcha-2021-1.pdf)
+* [LechLcha-2024.md](../RavTorah/Genesis/LechLcha-2024.md)
+* [LechLcha-2024.pdf](../RavTorah/Genesis/LechLcha-2024.pdf)
 * [Vayeira-2018-1.pdf](../RavTorah/Genesis/Vayeira-1.pdf)
 * [Vayeira-2018-1.md](../RavTorah/Genesis/Vayeira-1.md)
 * [Vayera-2020-1.md](../RavTorah/Genesis/Vayera-2020-1.md)
