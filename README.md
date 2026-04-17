@@ -13,6 +13,8 @@ The files under the **JrTorah** directory (with **Jr** in their hyper-links) are
 
 Every time I listen to a Shiur by the Rav ZT"L, I hear something new or find some additional interesting nuance. Releasing these summaries through **github** allows me to update them over time with minimal effort and without the need to update purchased printed copies. Interested people can be notified of updates by subscribing to **github** and this repository or by checking timestamps of the files in the repository for updated files. One can easily check for updates by examining the timestamp and comment in the line item for each Chumash by scrolling to the top of this README file. The files are available in **.pdf** and **.md** (markdown) form. 
 
+The section on **Articles on Orthodoxy** contains a collection of translated articles written by the Rav ZT"L for the Tag Morning Journal in the 1950's on the challenges facing Orthodox Judaism at that time. They provide insights that are relevant today to approaching the problems faced by the Orthodox Jewish Community.
+
 **All articles are Copyright by Rabbi Joshua Rapps. All rights reserved. Permission granted to print for personal reading/use. May not be incorporated in printed or electronic publications without explicit permission from the author**.
 
 * [בראשית](./Genesis/README.md)
