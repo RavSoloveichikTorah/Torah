@@ -37,6 +37,7 @@
 * [JrRoshHashanahChanaSarah.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrRoshHashanahTefilatChanaSarah2023.md)
 * [JrKapparahAndTahara.pdf](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrKapparahTahara.pdf)
 * [JrKapparahAndTahara.md](https://github.com/RavSoloveichikTorah/Torah/blob/master/RavTorah/Moadim/JrKapparahTahara.md)
-* [Sukkos-2026-1](./Sukkos-2026-1.pdf)
+* [Sukkos-2026-1.pdf](./Sukkos-2026-1.pdf)
+* [Sukkos-2026-1.md](./Sukkos-2026-1.md)
 
 
