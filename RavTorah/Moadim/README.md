@@ -2,6 +2,8 @@
 * [AvdusHagada-2024.md](./AvdusHagada.md)
 * [Pesach-2019-1](./Pesach-2019-1.pdf)
 * [Pesach-2019-1.md](./Pesach-2019-1.md)
+* [JrHaLachmaAnya.pdf](./HaLachmaAnya.pdf)
+* [JrHaLachmaAnya.md](./HaLachmaAnya.md)
 * [JrPesachRemember-2021](./JRPesachRemember-2021.pdf)
 * [JrPesachRemember-2021.md](./JRPesachRemember-2021.md)
 * [JrVhigadtaLbincha-2020](./VhigadtaLbincha-2020.pdf)
