@@ -2,6 +2,8 @@
 * [Dvarim-2019-1.pdf](../RavTorah/Deuteronomy/Dvarim-2019-1.pdf)
 * [Eikev-2019-1.md](../RavTorah/Deuteronomy/Eikev-2019-1.md)
 * [Eikev-2019-1.pdf](../RavTorah/Deuteronomy/Eikev-2019-1.pdf)
+* [JrReeh-2026-1-1.pdf](./Reeh-2026-1.pdf)
+* [JrReeh-2026-1-1.md](./Reeh-2026-1.md)
 * [KiTeitzay-2019-1.md](./KiTeitzay-2019-1.md)
 * [KiTeitzay-2019-1.pdf](./KiTeitzay-2019-1.pdf)
 * [JrKiTeitzay-2019-1.md](../JrTorah/Deuteronomy/JrKiTeitzay-2019-1.md)
