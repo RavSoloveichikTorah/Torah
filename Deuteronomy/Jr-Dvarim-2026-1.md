@@ -78,4 +78,3 @@ Like the Midrash quoted by Rashi above, Maimonides considers one who participate
 In summary, Parashas Devarim teaches that Jewish continuity depends on a proper and honest system of justice. Judges do not merely resolve disputes; they shape the community’s trust, protect the dignity of every litigant, and preserve the covenantal bond of Knesses Yisrael. This is why Devarim stands before Tisha B’Av before mourning the collapse of Jewish life, we are reminded that rebuilding begins with leaders and judges who hear both sides, reject Lashon Hara, and place truth above personal agenda.
 
 Copyright Rabbi Joshua Rapps, 2026. All rights reserved. Permission to reuse this article in printed or electronic form, with this notice, is granted.
-<img width="468" height="638" alt="image" src="https://github.com/user-attachments/assets/04d06120-96ec-4ba2-9c4e-c1382c9483ed" />
